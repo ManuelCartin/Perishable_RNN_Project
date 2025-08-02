@@ -1,0 +1,1121 @@
+producto_id,nombre_producto,categoria,fecha_caducidad,stock_actual,precio_unitario,sales_ultimos_7d,ventas_promedio_diaria,dias_hasta_caducidad,proveedor,en_promocion,precio_promocion,fecha_ultima_venta,temperatura_almacen,humedad_almacen,categoria_riesgo
+P1001,Manzanas Fuji,frutas,2025-08-31,120,2.5,70,10.0,29,FruViva Ltda,False,,2025-07-31,4.0,85.0,bajo
+P1002,Leche Entera 1L,lacteos,2025-09-01,85,1.2,45,6.5,30,DairyBest,True,0.99,2025-07-30,4.0,80.0,bajo
+P1003,Bananas orgánicas,frutas,2025-08-21,150,1.8,90,13.0,19,Tropico Verde,False,,2025-07-29,12.0,75.0,bajo
+P1004,Pechuga de Pollo,carnes,2025-08-10,60,5.5,30,4.3,8,CarnesPremium,True,4.99,2025-07-31,2.0,90.0,alto
+P1005,Yogures Naturales,lacteos,2025-08-25,100,0.9,55,8.0,23,DairyBest,False,,2025-07-30,4.0,85.0,bajo
+P1006,Agua Mineral 500ml,bebidas,2025-08-15,200,0.5,150,21.4,13,AguaPura,False,,2025-07-31,10.0,60.0,bajo
+P1007,Pan Integral 500g,panaderia,2025-08-08,80,2.0,65,9.3,6,PanExpress,True,1.8,2025-07-31,22.0,70.0,medio
+P1008,Naranjas Valencia,frutas,2025-08-28,140,1.5,80,11.4,26,CitrusFarm,False,,2025-07-29,8.0,82.0,bajo
+P1009,Carne de Res Molida,carnes,2025-08-05,55,7.0,25,3.6,3,ResSelecto,False,,2025-07-30,2.0,85.0,alto
+P1010,Pan Francés,panaderia,2025-08-07,90,2.5,55,7.8,5,PanExpress,False,,2025-07-30,22.0,65.0,medio
+P1011,Coca Cola 2L,bebidas,2025-09-10,300,1.3,170,24.3,39,BebidasGlobal,False,,2025-07-31,4.0,75.0,bajo
+P1012,Fresas Nacionales,frutas,2025-08-25,130,3.0,95,13.6,23,FresaSupreme,False,,2025-07-29,5.0,88.0,bajo
+P1013,Queso Gouda 200g,lacteos,2025-08-20,75,2.8,40,5.7,18,DairyBest,False,,2025-07-31,4.0,83.0,bajo
+P1014,Jugo de Naranja 1L,bebidas,2025-09-05,160,2.2,100,14.3,34,JugoExpress,False,,2025-07-30,4.0,80.0,bajo
+P1015,Pan de Hamburguesa,panaderia,2025-08-06,100,1.9,75,10.7,4,PanExpress,True,1.7,2025-07-31,22.0,72.0,medio
+P1016,Cerveza Artesanal 330ml,bebidas,2025-09-15,210,2.8,160,22.9,43,CervezaCraft,False,,2025-07-31,8.0,65.0,bajo
+P1017,Pepino Italiano,verduras,2025-08-10,95,0.8,50,7.1,8,VerduraSelecta,False,,2025-07-30,7.0,85.0,bajo
+P1018,Corte de Lomo de Cerdo,carnes,2025-08-04,40,9.5,15,2.1,2,ResSelecto,False,,2025-07-29,2.0,80.0,alto
+P1019,Bebida Energizante 250ml,bebidas,2025-08-09,180,2.0,140,20.0,7,Energize,False,,2025-07-31,4.0,78.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-15,120,1.2,85,12.1,13,Frutas del Valle,False,,2025-08-01,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-10,200,0.99,150,21.4,8,Lácteos La Huerta,True,0.89,2025-07-31,4.0,75.0,bajo
+PRD003,Zanahorias Orgánicas,verduras,2025-08-20,80,0.45,60,8.6,18,Verduras Orgánicas S.A.,False,,2025-08-01,6.0,90.0,bajo
+PRD004,Pollo Orgánico 500g,carnes,2025-08-05,50,5.75,45,6.4,3,Carnes Naturales,True,5.25,2025-07-30,2.0,80.0,alto
+PRD005,Pan Integral  loaf,panaderia,2025-08-03,150,2.0,130,18.6,1,Panaderia Buen Pan,False,,2025-07-31,20.0,65.0,bajo
+PRD006,Agua Mineral 1.5L,bebidas,2025-09-01,300,0.65,190,27.1,30,Bebidas del Valle,False,,2025-07-30,10.0,60.0,bajo
+PRD007,Yogur Natural 150g,lacteos,2025-08-07,180,0.5,170,24.3,5,Yogurt Plus,False,,2025-08-01,4.0,85.0,bajo
+PRD008,Jamon Cocido 200g,carnes,2025-08-09,70,3.99,40,5.7,7,Embuthidos Gourmet,False,,2025-07-31,2.0,78.0,alto
+PRD009,Baguette Tradicional,panaderia,2025-08-02,100,1.5,90,12.9,0,Panadería La Esquina,True,1.2,2025-08-01,20.0,70.0,bajo
+PRD010,Refresco Cola 330ml,bebidas,2025-08-25,250,1.0,200,28.6,23,Bebidas y Más,False,,2025-07-29,12.0,55.0,bajo
+PRD011,Naranja Sanguina 1kg,frutas,2025-08-18,90,1.8,70,10.0,16,Frutas del Sol,False,,2025-08-01,4.0,80.0,bajo
+PRD012,Cerveza Artesanal 330ml,bebidas,2025-09-15,100,2.5,60,8.6,43,Cervezas del Mundo,False,,2025-07-28,12.0,55.0,bajo
+PRD013,Queso Gouda 200g,lacteos,2025-08-12,130,3.5,110,15.7,10,Quesos Finos,False,,2025-08-01,4.0,80.0,medio
+PRD014,Manzana Verde,frutas,2025-08-19,100,1.3,75,10.7,17,Frutas Frescas,False,,2025-07-31,4.0,85.0,bajo
+PRD015,Coca-Cola 500ml,bebidas,2025-08-23,180,1.2,160,22.9,21,Bebidas Global,False,,2025-07-29,12.0,55.0,bajo
+PRD016,Yogur de Frutas 150g,lacteos,2025-08-14,160,0.6,140,20.0,12,Yogurt Plus,False,,2025-07-30,4.0,85.0,bajo
+PRD017,Filete de Ternera 250g,carnes,2025-08-06,60,8.99,25,3.6,4,Carnes Premium,False,,2025-07-30,2.0,85.0,alto
+PRD018,Lechuga Orgánica,verduras,2025-08-16,70,0.9,50,7.1,14,Verduras Orgánicas S.A.,False,,2025-07-31,6.0,90.0,bajo
+PRD019,Refresco Naranja 330ml,bebidas,2025-08-24,220,1.0,210,30.0,22,Bebidas del Sol,False,,2025-07-28,12.0,55.0,bajo
+PRD1001,Manzanas Gala,frutas,2025-08-15,120,1.2,50,7.1,13,Frutas del Valle,False,,2025-07-30,4.0,75.0,bajo
+PRD1002,Leche Entera 1L,lacteos,2025-08-10,80,0.99,30,4.3,8,Lacteos La Central,True,0.89,2025-07-31,3.0,80.0,bajo
+PRD1003,Tomates Rojos,verduras,2025-08-12,150,0.75,65,9.3,10,Verduras Frescas,False,,2025-07-29,6.0,70.0,medio
+PRD1004,Filetes de Pollo,carnes,2025-08-09,45,5.5,22,3.1,7,Carne Rica,False,,2025-07-31,2.0,60.0,alto
+PRD1005,Pan Integral 500g,panaderia,2025-08-05,200,2.0,90,12.9,3,Panaderia La Dulce,True,1.8,2025-07-31,22.0,65.0,bajo
+PRD1006,Agua Mineral 1.5L,bebidas,2025-08-20,300,0.5,150,21.4,18,Bebidas Refrescantes,False,,2025-07-30,5.0,50.0,bajo
+PRD1007,Yogurt Natural 150g,lacteos,2025-08-14,100,0.85,40,5.7,12,Lacteos La Central,False,,2025-07-30,4.0,78.0,bajo
+PRD1008,Jamon Serrano 100g,carnes,2025-08-16,60,3.5,18,2.6,14,Delicias Ibéricas,False,,2025-07-29,0.0,55.0,alto
+PRD1009,Refresco Cola 330ml,bebidas,2025-08-18,250,1.1,120,17.1,16,Bebidas Refrescantes,True,1.0,2025-07-31,4.0,65.0,bajo
+PRD1010,Jamon Cocido 200g,carnes,2025-08-13,70,4.0,25,3.6,11,Delicias Ibéricas,False,,2025-07-28,0.0,52.0,alto
+PRD1011,Pan de Molde 450g,panaderia,2025-08-07,180,2.5,85,12.1,5,Panaderia La Dulce,True,2.2,2025-07-30,22.0,60.0,bajo
+PRD1012,Refresco Naranja 330ml,bebidas,2025-08-21,220,1.2,130,18.6,19,Bebidas Refrescantes,False,,2025-07-31,4.0,65.0,bajo
+PRD1013,Queso Gouda 200g,lacteos,2025-08-19,90,2.8,35,5.0,17,Lacteos La Central,False,,2025-07-30,4.0,78.0,bajo
+PRD1014,Carne Picada 500g,carnes,2025-08-17,55,6.0,20,2.9,15,Carne Rica,False,,2025-07-29,1.0,58.0,alto
+PRD1015,Pan Baguette 250g,panaderia,2025-08-06,160,1.5,75,10.7,4,Panaderia La Dulce,False,,2025-07-30,22.0,60.0,bajo
+PRD1016,Cerveza Lager 330ml,bebidas,2025-08-23,250,1.8,140,20.0,21,Bebidas Refrescantes,False,,2025-07-30,4.0,65.0,bajo
+PRD1017,Yogurt con Frutas 150g,lacteos,2025-08-11,110,1.1,45,6.4,9,Lacteos La Central,False,,2025-07-31,4.0,78.0,bajo
+PRD1018,Jamon York 150g,carnes,2025-08-10,65,3.8,19,2.7,8,Delicias Ibéricas,False,,2025-07-30,0.0,52.0,alto
+PRD1019,Agua con Gas 500ml,bebidas,2025-08-25,320,0.85,160,22.9,23,Bebidas Refrescantes,False,,2025-07-30,5.0,50.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-20,120,1.2,75,10.7,18,Frutas del Valle,False,,2025-08-01,4.0,65.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,85,0.95,60,8.6,13,Lacteos Santamaria,True,0.85,2025-07-30,4.5,75.0,bajo
+PRD003,Yogurt Natural 150g,lacteos,2025-08-10,200,0.5,150,21.4,8,DairyFarm,False,,2025-07-29,4.0,80.0,bajo
+PRD004,Broccoli Fresco,verduras,2025-08-18,60,2.3,35,5.0,16,Verduras Orgánicas,False,,2025-07-31,2.0,70.0,medio
+PRD005,Pechuga de Pollo 1kg,carnes,2025-08-12,40,5.5,20,2.9,10,Carnes del Valle,True,5.0,2025-07-30,1.5,60.0,alto
+PRD006,Pan Integral 500g,panaderia,2025-08-04,150,1.1,130,18.6,2,Panaderia La Huerta,False,,2025-08-01,22.0,55.0,bajo
+PRD007,Jugo de Naranja 1L,bebidas,2025-08-25,70,2.0,55,7.9,23,Jugos del Sol,False,,2025-07-27,8.0,85.0,bajo
+PRD008,Zanahorias 1kg,verduras,2025-08-19,100,1.5,60,8.6,17,Verduras La Huerta,True,1.3,2025-07-29,2.0,68.0,medio
+PRD009,Queso Cheddar 200g,lacteos,2025-08-11,55,3.2,25,3.6,9,Quesos del Valle,False,,2025-07-28,4.0,70.0,bajo
+PRD010,Bebida Energizante 330ml,bebidas,2025-09-05,90,2.5,45,6.4,34,EnergíaVital,False,,2025-07-26,10.0,80.0,alto
+PRD011,Tomates Cherry 500g,verduras,2025-08-17,75,2.1,48,6.9,15,Verduras Frescas,False,,2025-07-30,3.0,65.0,medio
+PRD012,Chocolate negro 100g,panaderia,2025-08-09,95,2.8,80,11.4,7,Dulces & Choco,False,,2025-07-31,18.0,50.0,bajo
+PRD013,Cerveza Artesanal 500ml,bebidas,2025-09-15,110,3.5,65,9.3,44,Cervecería La Artesanal,False,,2025-07-28,12.0,88.0,alto
+PRD014,Fresas 250g,frutas,2025-08-16,130,2.9,90,12.9,14,Frutas Frescas,True,2.5,2025-07-31,4.0,60.0,bajo
+PRD015,Agua Mineral 1.5L,bebidas,2025-08-24,180,0.65,110,15.7,22,AguaPura,False,,2025-07-26,10.0,80.0,bajo
+PRD016,Chorizo Iberico 300g,carnes,2025-08-13,45,8.5,15,2.1,11,Carnes selectas,False,,2025-07-29,1.0,55.0,alto
+PRD017,Pan Dulce 250g,panaderia,2025-08-03,170,2.2,125,17.9,1,Panaderia La Dulzura,False,,2025-08-01,22.0,55.0,bajo
+PRD018,Naranja Navel 1kg,frutas,2025-08-14,90,1.4,55,7.9,12,Frutas y Verduras SA,False,,2025-07-27,4.0,65.0,bajo
+PRD019,Cerveza Light 330ml,bebidas,2025-09-01,100,2.8,40,5.7,30,Cerveceria Artesanal,False,,2025-07-29,12.0,85.0,alto
+P001,Manzanas Fuji,frutas,2025-08-31,120,2.5,35,5.0,29,Frutas del Valle,False,,2025-07-30,4.0,70.0,bajo
+P002,Leche entera 1L,lacteos,2025-08-15,200,1.2,70,10.0,13,Lácteos Nacionales,True,1.0,2025-08-01,4.0,85.0,bajo
+P003,Yogurt natural 125g,lacteos,2025-08-25,150,0.8,50,7.0,23,Dairy Fresh,False,,2025-07-29,4.0,80.0,bajo
+P004,Tomates Roma,verduras,2025-08-05,80,1.5,20,3.0,3,Verduras del Sol,False,,2025-07-31,10.0,75.0,medio
+P005,Carne de res filete 500g,carnes,2025-08-10,50,8.0,15,2.0,8,Carnes del Norte,False,,2025-07-30,2.0,65.0,alto
+P006,Pan de caja integral 600g,panaderia,2025-08-07,100,3.0,40,6.0,5,Panaderías del Sol,True,2.5,2025-08-01,22.0,60.0,bajo
+P007,Cerveza Lager 355ml,bebidas,2025-10-01,300,1.5,150,22.0,60,Bebidas Global,False,,2025-07-28,8.0,55.0,bajo
+P008,Jugo de naranja 1L,bebidas,2025-08-12,180,1.8,55,8.0,10,Jugos del Valle,False,,2025-07-30,4.0,70.0,bajo
+P009,Pepinos verdes,verduras,2025-08-04,60,0.9,12,2.0,2,Verduras Frescas,False,,2025-07-31,10.0,75.0,medio
+P010,Queso gouda 200g,lacteos,2025-08-20,90,3.5,25,3.5,18,Quesos del Mundo,False,,2025-07-29,4.0,80.0,bajo
+P011,Jamon cocido 250g,carnes,2025-08-14,70,4.0,10,1.5,12,Carnes Express,False,,2025-07-30,2.0,60.0,alto
+P012,Refresco cola 600ml,bebidas,2025-08-09,250,1.2,120,17.0,7,Refrescos y Bebidas,True,1.0,2025-07-31,8.0,55.0,bajo
+P013,Bananas maduras,frutas,2025-08-03,140,1.0,45,6.0,1,Bananas del Sol,False,,2025-07-31,4.0,70.0,bajo
+P014,Pan francés 400g,panaderia,2025-08-06,90,2.8,30,4.0,4,Panaderías del Norte,False,,2025-07-29,22.0,60.0,bajo
+P015,Agua mineral 1.5L,bebidas,2025-09-02,220,1.0,80,11.0,31,Aguas Purificadas,False,,2025-07-30,4.0,70.0,bajo
+P016,Carne de pollo pechuga 1kg,carnes,2025-08-18,90,6.5,25,3.5,16,Pollo Rico,False,,2025-07-29,2.0,60.0,alto
+P017,Jamon iberico 100g,carnes,2025-08-23,40,12.0,8,1.0,21,Delicatessen,False,,2025-07-29,4.0,80.0,alto
+P018,Refresco limón 600ml,bebidas,2025-08-10,200,1.3,100,14.0,8,Refrescos y Bebidas,False,,2025-07-30,8.0,55.0,bajo
+P019,Zanahorias 1kg,verduras,2025-08-04,70,1.2,16,2.5,2,Verduras Frescas,False,,2025-07-31,10.0,75.0,medio
+P020,Queso crema 150g,lacteos,2025-08-19,110,2.8,30,4.0,17,Quesos del Mundo,False,,2025-07-29,4.0,80.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-25,120,1.2,50,7.1,23,Frutas del Valle,False,,2025-08-01,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,80,1.0,40,5.7,13,Lácteos de la Colina,True,0.8,2025-08-01,4.0,75.0,bajo
+PRD003,Zanahorias,verduras,2025-08-28,200,0.5,70,10.0,26,Verduras del Sur,False,,2025-08-02,6.0,80.0,bajo
+PRD004,Pechuga de Pollo,carnes,2025-08-10,50,5.0,25,3.6,8,Carne Viva,True,4.5,2025-08-01,2.0,65.0,alto
+PRD005,Pan Integral,panaderia,2025-08-05,150,1.5,90,12.9,3,Panadería Las Delicias,False,,2025-08-02,22.0,50.0,medio
+PRD006,Jugo de Naranja 500ml,bebidas,2025-08-20,180,2.0,65,9.3,18,Bebidas Tropicales,True,1.8,2025-08-01,8.0,60.0,bajo
+PRD007,Yogurt Griego 150g,lacteos,2025-08-18,100,1.8,55,7.8,16,Lácteos de la Colina,False,,2025-08-02,4.0,70.0,bajo
+PRD008,Filete de Ternera,carnes,2025-08-12,30,12.0,10,1.4,10,Carne Viva,False,,2025-07-31,2.0,60.0,alto
+PRD009,Jamon Serrano 200g,carnes,2025-08-22,60,8.5,20,2.8,20,Embutidos La Española,True,7.5,2025-08-01,4.0,65.0,alto
+PRD010,Galletas Saladas 200g,panaderia,2025-08-19,170,1.3,80,11.4,17,Panadería La Dulce Vida,False,,2025-08-02,22.0,55.0,medio
+PRD011,Refresco Cola 330ml,bebidas,2025-08-17,210,1.0,75,10.7,15,Bebidas Tropicales,False,,2025-08-02,8.0,60.0,bajo
+PRD012,Queso Gouda 200g,lacteos,2025-08-30,90,3.5,35,5.0,28,Lácteos del Valle,False,,2025-08-02,4.0,70.0,bajo
+PRD013,Carne de Cerdo Asada,carnes,2025-08-11,40,9.0,12,1.7,9,Carne Viva,False,,2025-07-30,2.0,60.0,alto
+PRD014,Pan Dulce,panaderia,2025-08-03,160,2.2,110,15.7,1,Panadería La Dulce Vida,False,,2025-08-02,22.0,55.0,medio
+PRD015,Agua Mineral 1.5L,bebidas,2025-09-05,300,0.9,95,13.6,34,Bebidas Tropicales,False,,2025-08-02,8.0,60.0,bajo
+PRD016,Chocolate Amargo 100g,panaderia,2025-08-29,130,2.5,45,6.4,27,Confitería Dulce Mundo,False,,2025-08-02,22.0,55.0,bajo
+PRD017,Sandía,frutas,2025-08-26,140,3.0,60,8.6,24,Frutas del Valle,False,,2025-08-02,4.0,70.0,bajo
+PRD018,Cerveza Artesanal 355ml,bebidas,2025-09-02,220,2.8,85,12.1,31,Bebidas Artesanales,False,,2025-08-02,8.0,60.0,bajo
+PRD019,Café molido 250g,bebidas,2025-08-14,90,4.0,38,5.4,12,Café del Sol,False,,2025-08-02,22.0,55.0,bajo
+PRD020,Refresco Limon 330ml,bebidas,2025-08-24,195,1.2,55,7.8,22,Bebidas Tropicales,False,,2025-08-02,8.0,60.0,bajo
+P1001,Manzanas Fuji,frutas,2025-08-15,120,1.2,70,10.0,13,Frutas del Valle,False,,2025-07-31,4.0,75.0,bajo
+P1002,Leche Entera 1L,lacteos,2025-08-10,85,0.9,60,8.5,8,Lácteos La Prensa,True,0.75,2025-07-31,4.0,80.0,bajo
+P1003,Yogurt Natural 500g,lacteos,2025-08-22,150,1.0,55,7.9,20,Lácteos La Prensa,False,,2025-07-30,4.0,78.0,bajo
+P1004,Pechuga de Pollo,carnes,2025-08-07,50,4.5,40,5.7,5,Carnes del Norte,True,4.0,2025-07-31,1.0,85.0,alto
+P1005,Pan Integral 500g,panaderia,2025-08-04,200,1.5,100,14.3,2,Panadería La Dulce,False,,2025-07-31,22.0,60.0,bajo
+P1006,Refresco Cola 2L,bebidas,2025-09-01,300,1.8,150,21.4,30,Bebidas Global,True,1.5,2025-07-31,8.0,55.0,medio
+P1007,Manzanas Gala,frutas,2025-08-18,130,1.3,65,9.3,16,Frutas del Valle,False,,2025-07-29,4.0,72.0,bajo
+P1008,Tomates Rojos 1kg,verduras,2025-08-09,90,2.0,55,8.2,7,Verduras del Sol,False,,2025-07-30,10.0,85.0,medio
+P1009,Queso Gouda 250g,lacteos,2025-08-19,70,3.5,45,6.4,17,Lácteos La Prensa,False,,2025-07-28,4.0,76.0,bajo
+P1010,Carne Molida 1kg,carnes,2025-08-05,60,5.0,30,4.3,3,Carnes del Norte,False,,2025-07-30,2.0,88.0,alto
+P1011,Pan Blanco 700g,panaderia,2025-08-03,180,1.8,85,12.1,1,Panadería La Dulce,False,,2025-07-31,22.0,65.0,bajo
+P1012,Jugo de Naranja 1L,bebidas,2025-08-20,220,2.2,140,20.0,18,Bebidas Global,False,,2025-07-30,8.0,60.0,medio
+P1013,Zanahorias 1kg,verduras,2025-08-16,95,1.1,50,7.1,14,Verduras del Sol,False,,2025-07-29,10.0,85.0,medio
+P1014,Batido de Chocolate 330ml,bebidas,2025-08-12,160,2.5,90,12.9,10,Bebidas Global,False,,2025-07-30,8.0,55.0,medio
+P1015,Fresa 250g,frutas,2025-08-25,85,2.3,75,10.7,23,Frutas del Valle,False,,2025-07-28,4.0,73.0,bajo
+P1016,Cerveza Lager 355ml,bebidas,2025-09-05,250,1.5,130,18.6,34,Bebidas Global,True,1.2,2025-07-31,10.0,65.0,medio
+P1017,Huevo Blanco 12u,panaderia,2025-08-04,210,2.2,110,15.7,2,Huevos del Valle,False,,2025-07-30,5.0,70.0,bajo
+P1018,Coca-Cola Zero 2L,bebidas,2025-09-10,340,2.0,165,23.6,39,Bebidas Global,False,,2025-07-31,8.0,60.0,medio
+P1019,Zucchini 1kg,verduras,2025-08-14,80,1.4,45,6.4,12,Verduras del Sol,False,,2025-07-29,10.0,85.0,medio
+PRD001,Manzanas Gala,frutas,2025-08-28,150,1.2,70,10.0,26,FreshFruits Co.,False,,2025-07-31,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,80,0.99,50,7.0,13,DairyBest Ltd.,True,0.89,2025-07-30,4.0,90.0,bajo
+PRD003,Jamon Cocido 200g,carnes,2025-08-10,45,3.5,20,3.0,8,MeatProducers Inc.,False,,2025-07-28,2.0,75.0,medio
+PRD004,Bananas,frutas,2025-08-25,200,0.5,180,25.0,23,Tropical Farms,False,,2025-08-01,4.0,88.0,bajo
+PRD005,Yogurt Natural 150g,lacteos,2025-08-20,60,0.75,40,6.0,18,DairyBest Ltd.,False,,2025-07-29,4.0,90.0,bajo
+PRD006,Filete de Pollo 1kg,carnes,2025-08-12,35,6.8,15,2.0,10,ChickenSupreme,True,6.0,2025-07-30,1.5,70.0,medio
+PRD007,Pan Baguette 250g,panaderia,2025-08-04,120,1.0,90,13.0,2,Bakery Fresh,False,,2025-07-31,22.0,65.0,medio
+PRD008,Refresco Cola 330ml,bebidas,2025-09-05,300,0.8,210,30.0,34,BeverageCo,False,,2025-08-01,8.0,70.0,bajo
+PRD009,Queso Cheddar 200g,lacteos,2025-08-18,50,2.5,28,4.0,16,CheeseMakers,False,,2025-07-30,4.0,80.0,bajo
+PRD010,Carne Molida 500g,carnes,2025-08-09,55,4.2,25,3.0,7,MeatProducers Inc.,False,,2025-07-29,2.0,78.0,medio
+PRD011,Agua Mineral 1.5L,bebidas,2025-09-01,250,0.6,200,28.0,30,WaterWorld Ltd.,False,,2025-08-01,10.0,60.0,bajo
+PRD012,Pan Integral 500g,panaderia,2025-08-06,100,2.5,85,12.0,4,Wholegrain Bakery,False,,2025-07-31,22.0,65.0,medio
+PRD013,Zumo de Naranja 1L,bebidas,2025-08-20,130,1.8,90,13.0,18,CitrusSupply,True,1.5,2025-08-01,8.0,70.0,bajo
+PRD014,Mermelada Fresa 250g,panaderia,2025-08-23,70,2.0,50,7.0,21,SweetTaste Ltd.,False,,2025-07-29,22.0,60.0,bajo
+PRD015,Croissants 60g,panaderia,2025-08-04,110,1.2,85,12.0,2,Bakery Fresh,False,,2025-07-31,22.0,65.0,medio
+PRD016,Refresco Limón 330ml,bebidas,2025-09-10,250,0.8,200,29.0,39,BeverageCo,True,0.7,2025-08-01,8.0,70.0,bajo
+PRD017,Queso Mozzarella 250g,lacteos,2025-08-19,65,2.8,35,5.0,17,CheeseMakers,False,,2025-07-30,4.0,80.0,bajo
+PRD018,Hamburguesa de Carne 150g,carnes,2025-08-11,40,4.5,18,2.5,9,MeatProducers Inc.,False,,2025-07-29,1.0,75.0,medio
+PRD019,Agua de Sabor Limón 1L,bebidas,2025-08-31,220,1.1,160,22.0,29,FlavorBrew,False,,2025-08-01,9.0,65.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-31,120,1.2,50,7.1,29,AgroFruits Ltd.,False,,2025-07-31,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-12,80,0.99,30,4.3,10,DairyPure,True,0.89,2025-07-31,4.0,88.0,medio
+PRD003,Bananas Grandes,frutas,2025-08-10,150,0.65,70,10.0,8,Tropical Farms,False,,2025-07-31,13.0,75.0,bajo
+PRD004,Jamon Cocido 200g,carnes,2025-08-05,60,3.5,15,2.1,3,MeatPro,False,,2025-07-30,2.0,65.0,alto
+PRD005,Pan Blanco 500g,panaderia,2025-08-02,200,1.0,90,12.9,0,Baker's Best,True,0.85,2025-07-31,22.0,70.0,bajo
+PRD006,Agua Mineral 1.5L,bebidas,2025-08-25,300,0.5,150,21.4,23,Nature's Best,False,,2025-07-31,12.0,40.0,bajo
+PRD007,Yogurt Natural 150g,lacteos,2025-08-20,90,0.8,25,3.6,18,DairyPure,False,,2025-07-30,4.0,85.0,medio
+PRD008,Carne de Res 1kg,carnes,2025-08-07,40,15.0,12,1.7,5,Carnes del Sur,False,,2025-07-31,0.0,60.0,alto
+PRD009,Bollo de Pan Integral,panaderia,2025-08-02,170,1.5,85,12.1,0,BakeMaster,False,,2025-07-31,22.0,65.0,bajo
+PRD010,Refresco Cola 2L,bebidas,2025-09-10,250,1.8,120,17.1,39,FizzBeverages,False,,2025-07-31,10.0,50.0,bajo
+PRD011,Queso Cheddar 200g,lacteos,2025-08-17,70,2.5,20,2.9,15,CheeseWorld,True,2.0,2025-07-30,4.0,85.0,medio
+PRD012,Sandia 2kg,frutas,2025-08-25,100,3.0,55,7.9,23,Tropic Fruits,False,,2025-07-31,12.0,80.0,bajo
+PRD013,Cerveza Artesanal 330ml,bebidas,2025-08-22,180,2.5,110,15.7,20,Craft Beverages,False,,2025-07-31,5.0,55.0,bajo
+PRD014,Limones 1kg,frutas,2025-08-09,130,0.8,65,9.3,7,Citrus World,False,,2025-07-30,12.0,85.0,bajo
+PRD015,Yogurt de Frutas 125g,lacteos,2025-08-19,85,1.2,22,3.1,17,DairyPlus,False,,2025-07-31,4.0,85.0,medio
+PRD001,Manzanas Fuji,frutas,2025-08-15,120,1.2,60,8.5,13,Fruity Farms,False,,2025-08-01,4.0,80.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-20,200,0.99,150,22.0,18,DairyBest,True,0.89,2025-08-01,4.0,85.0,bajo
+PRD003,Brocoli fresco,verduras,2025-08-09,85,1.75,45,6.4,7,Green Valley,False,,2025-08-02,2.0,70.0,medio
+PRD004,Pechuga de pollo,carnes,2025-08-12,60,5.5,35,4.9,10,CarneSelect,False,,2025-07-31,0.0,60.0,alto
+PRD005,Pan baguette,panaderia,2025-08-02,90,1.0,150,21.4,0,BakeHouse,True,0.8,2025-08-02,8.0,65.0,medio
+PRD006,Jugos de naranja 1L,bebidas,2025-08-18,130,2.0,75,10.7,16,Citrus Co.,False,,2025-07-30,4.0,70.0,bajo
+PRD007,Queso Gouda 200g,lacteos,2025-08-25,50,3.5,25,3.6,23,DairyPlus,False,,2025-07-31,4.0,80.0,bajo
+PRD008,Carne de res molida 1kg,carnes,2025-08-10,40,12.0,30,4.3,8,ResFino,False,,2025-07-31,1.0,55.0,alto
+PRD009,Zumo de piña 1L,bebidas,2025-08-22,100,2.5,90,12.9,20,TropicalJuice,False,,2025-07-29,4.0,75.0,bajo
+PRD010,Fresa fresca 250g,frutas,2025-08-11,70,2.5,80,11.4,9,BerryGood,True,2.0,2025-08-01,4.0,85.0,bajo
+PRD011,Pan dulce 400g,panaderia,2025-08-02,120,2.0,130,18.6,0,SweetBreads,False,,2025-08-02,8.0,60.0,medio
+PRD012,Agua mineral 1.5L,bebidas,2025-09-01,150,0.8,160,22.9,30,AquaPure,False,,2025-07-28,4.0,70.0,bajo
+PRD013,Yogurt natural 500g,lacteos,2025-08-17,90,1.5,85,12.1,15,DairyBest,False,,2025-07-30,4.0,85.0,bajo
+PRD014,Cerveza Artesanal 330ml,bebidas,2025-09-10,110,3.0,50,7.1,39,CraftBrew,False,,2025-07-27,4.0,80.0,medio
+PRD015,Verduras Mixtas 500g,verduras,2025-08-10,95,3.25,65,9.3,8,FreshFarm,False,,2025-07-31,2.0,70.0,medio
+PRD001,Manzanas Gala,frutas,2025-08-20,150,1.2,90,12.9,18,AgroFresco,False,,2025-07-31,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-10,200,1.0,130,18.6,8,LactoSupplies,True,0.8,2025-07-30,4.0,80.0,bajo
+PRD003,Bananas Organic,frutas,2025-08-15,80,0.8,70,10.0,13,TropicalFarms,False,,2025-07-29,13.0,85.0,bajo
+PRD004,Carne de Res,carnes,2025-08-05,60,8.5,40,5.7,3,Carnicería El Toro,False,,2025-07-28,2.0,60.0,alto
+PRD005,Pan Blanco Tradicional,panaderia,2025-08-02,250,1.5,160,22.9,0,PanExpress,True,1.2,2025-07-30,22.0,75.0,medio
+PRD006,Jugo de Naranja Natural 1L,bebidas,2025-08-25,100,2.0,70,10.0,23,Bebidas del Sol,False,,2025-07-31,4.0,65.0,bajo
+PRD007,Yogurt Natural 150g,lacteos,2025-08-12,180,0.9,120,17.1,10,YogurtPlus,False,,2025-07-31,4.0,82.0,bajo
+PRD008,Queso Gouda 200g,lacteos,2025-08-18,90,2.5,60,8.6,16,Quesos Artesanales,False,,2025-07-30,5.0,70.0,bajo
+PRD009,Zumo de Manzana 1L,bebidas,2025-08-22,120,2.5,85,12.1,20,Frutas y Zumos,False,,2025-07-30,4.0,68.0,bajo
+PRD010,Huevos Orgánicos 12 U,verduras,2025-08-07,160,3.0,100,14.3,5,HuevoFresco,False,,2025-07-31,5.0,78.0,bajo
+PRD011,Broccoli Orgánico,verduras,2025-08-09,75,1.8,50,7.1,7,VeggieFarm,False,,2025-07-29,4.0,80.0,medio
+PRD012,Cerveza Artesanal 330ml,bebidas,2025-08-30,90,2.8,75,10.7,28,Cervezas del Mundo,False,,2025-07-30,4.0,55.0,bajo
+PRD013,Pan Integral 500g,panaderia,2025-08-02,180,2.2,150,21.4,0,PanExpress,False,,2025-07-31,22.0,70.0,medio
+PRD014,Refresco Cola 600ml,bebidas,2025-08-28,110,1.8,85,12.1,26,Refrescos Unidos,False,,2025-07-30,4.0,65.0,bajo
+PRD015,Fresas 250g,frutas,2025-08-09,130,2.5,95,13.6,7,FruityFarm,True,2.0,2025-07-31,2.0,90.0,medio
+PRD016,Queso Cheddar 200g,lacteos,2025-08-16,70,3.2,55,7.9,14,Quesos Artesanales,False,,2025-07-29,5.0,70.0,bajo
+PRD017,Agua Mineral 1.5L,bebidas,2025-09-05,140,1.5,80,11.4,34,AquaPure,False,,2025-07-31,4.0,60.0,bajo
+PRD018,Pechuga de Pollo,carnes,2025-08-04,55,7.0,30,4.3,2,PolloFresco,False,,2025-07-29,2.0,65.0,alto
+PRD019,Jamon Cocido 200g,carnes,2025-08-03,45,5.0,25,3.6,1,Cárnicas La Pampa,False,,2025-07-28,1.0,55.0,alto
+PRD001,Manzanas Rojas,frutas,2025-08-20,150,1.2,35,5.0,18,Frutas del Valle,False,,2025-07-30,4.0,80.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-28,80,1.1,50,7.0,26,Lácteos La Leche,True,0.9,2025-07-31,4.0,85.0,medio
+PRD003,Broccoli Fresco,verduras,2025-08-12,60,2.5,20,3.0,10,Verduras del Campo,False,,2025-07-29,2.0,70.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-09,45,5.0,15,2.0,7,Carnes Rápidas,True,4.5,2025-07-31,0.0,85.0,alto
+PRD005,Pan Integral 500g,panaderia,2025-08-15,120,1.8,40,6.0,13,Panaderia Central,False,,2025-07-28,20.0,60.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-24,90,2.0,30,4.0,22,Bebidas del Sol,True,1.8,2025-07-30,4.0,85.0,bajo
+PRD007,Queso Cheddar 200g,lacteos,2025-08-25,55,3.5,22,3.0,23,Quesos del Valle,False,,2025-07-31,4.0,80.0,medio
+PRD008,Tomates Cherry 250g,verduras,2025-08-16,70,2.0,25,4.0,14,Huertos Orgánicos,False,,2025-07-29,2.0,75.0,medio
+PRD009,Jamon Serrano 150g,carnes,2025-08-21,35,4.8,12,1.5,19,Cárnicas Serrano,False,,2025-07-30,0.0,85.0,alto
+PRD010,Agua Mineral 1.5L,bebidas,2025-09-02,200,0.8,60,9.0,31,AguaPura Ltda,False,,2025-07-31,8.0,90.0,bajo
+PRD011,Fresas 250g,frutas,2025-08-10,100,3.0,45,6.5,8,Frescas del Valle,True,2.5,2025-07-30,4.0,75.0,medio
+PRD012,Yogur Natural 150g,lacteos,2025-08-25,95,1.0,33,4.7,23,YogurtPlus,False,,2025-07-31,4.0,85.0,bajo
+PRD013,Sandía 1kg,frutas,2025-08-09,85,4.0,38,5.5,7,Frutas del Valle,False,,2025-07-29,4.0,78.0,bajo
+PRD014,Cerveza Artesanal 330ml,bebidas,2025-08-18,130,3.5,55,7.9,16,Cervezas Artesanales,False,,2025-07-30,4.0,70.0,bajo
+PRD015,Jamon Cocido 150g,carnes,2025-08-23,50,4.0,20,3.0,21,Carnes Express,False,,2025-07-30,0.0,85.0,alto
+PRD016,Bebida Gaseosa 2L,bebidas,2025-08-19,160,1.5,65,9.0,17,Bebidas Cola,True,1.3,2025-07-30,8.0,85.0,bajo
+PRD017,Yogur de Frutas 125g,lacteos,2025-08-23,70,1.2,25,3.5,21,YogurtPlus,False,,2025-07-30,4.0,85.0,bajo
+PRD018,Manzanas Verdes,frutas,2025-08-11,130,1.3,40,6.0,9,Frutas del Valle,False,,2025-07-29,4.0,78.0,bajo
+PRD019,Zumo de Manzana 1L,bebidas,2025-08-30,85,2.2,28,4.0,28,Bebidas del Valle,False,,2025-07-31,4.0,85.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-27,150,1.2,35,5.0,25,FruitCo,False,,2025-07-28,4.0,70.0,bajo
+PRD002,Leche Entera Lala,lacteos,2025-08-25,80,0.9,28,4.0,23,DairyBest,True,0.75,2025-07-30,2.0,85.0,medio
+PRD003,Tomates Russet,verduras,2025-08-29,200,0.6,50,7.0,27,VeggieFarm,False,,2025-07-30,10.0,65.0,bajo
+PRD004,Pechuga de Pollo,carnes,2025-08-20,60,4.5,18,3.0,18,MeatMasters,True,4.0,2025-07-28,0.0,60.0,alto
+PRD005,Pan Francés,panaderia,2025-08-03,120,1.0,60,8.5,1,BakerySweet,False,,2025-07-31,22.0,55.0,medio
+PRD006,Jugo de Naranja,bebidas,2025-09-01,300,2.0,80,11.0,30,Beverages Inc,True,1.8,2025-07-27,4.0,75.0,bajo
+PRD007,Yogurt Griego,lacteos,2025-08-28,100,1.5,40,6.0,26,DairyPrime,False,,2025-07-29,4.0,80.0,medio
+PRD008,Carne de Res Molida,carnes,2025-08-19,50,8.0,22,3.0,17,MeatBest,False,,2025-07-30,1.0,55.0,alto
+PRD009,Agua Mineral Sin Gas,bebidas,2025-09-02,250,0.5,70,10.0,31,AquaPure,False,,2025-07-27,8.0,65.0,bajo
+PRD010,Queso Gouda,lacteos,2025-08-26,90,3.5,15,2.0,24,CheeseWorld,True,3.0,2025-07-31,6.0,85.0,medio
+PRD011,Bananas,frutas,2025-08-23,180,0.3,60,8.0,21,Tropical Farms,False,,2025-07-30,4.0,70.0,bajo
+PRD012,Espinaca Orgánica,verduras,2025-08-24,130,1.0,25,3.5,22,GreenLeaf,False,,2025-07-29,10.0,60.0,bajo
+PRD013,Galletas Integrales,panaderia,2025-08-05,90,1.2,45,6.0,3,SweetBite,False,,2025-07-30,20.0,50.0,medio
+PRD014,Refresco Cola,bebidas,2025-08-31,210,1.5,55,7.8,29,ColaBrew,True,1.3,2025-07-31,5.0,80.0,bajo
+PRD015,Cerveza Artesanal,bebidas,2025-09-10,150,3.0,33,4.5,39,BrewMasters,False,,2025-07-30,4.0,75.0,bajo
+PRD016,Cheddar en Barra,lacteos,2025-08-24,70,2.8,18,2.5,22,CheeseWorld,False,,2025-07-29,6.0,85.0,medio
+PRD017,Salchicha de Cerdo,carnes,2025-08-18,40,6.0,15,2.2,16,MeatCraft,False,,2025-07-29,2.0,55.0,alto
+PRD018,Jugo de Manzana,bebidas,2025-08-30,240,1.8,62,9.0,28,FruityJuice,True,1.5,2025-07-31,4.0,72.0,bajo
+PRD019,Mozzarella Fresca,lacteos,2025-08-23,85,2.5,20,3.0,21,CheeseWorld,False,,2025-07-30,5.0,80.0,medio
+PRD001,Manzanas Fuji,frutas,2025-08-31,150,1.2,70,10.0,29,AgroFruits Ltd.,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera,lacteos,2025-08-15,200,0.9,120,17.1,13,DairyBest Co.,True,0.75,2025-07-31,4.0,70.0,bajo
+PRD003,Pechuga de Pollo,carnes,2025-08-05,80,5.5,50,7.1,3,Carnes del Sur,False,,2025-07-29,2.0,80.0,alto
+PRD004,Pan Baguette,panaderia,2025-08-02,300,1.0,180,25.7,0,Panaderos Unidos,False,,2025-07-31,22.0,60.0,bajo
+PRD005,Naranja Valencia,frutas,2025-08-20,100,0.8,60,8.6,18,Círculo Frutícola,True,0.65,2025-07-31,5.0,90.0,bajo
+PRD006,Agua Mineral 1.5L,bebidas,2025-09-10,400,0.5,150,21.4,39,Bebidas del Valle,False,,2025-07-31,8.0,50.0,bajo
+PRD007,Queso Gouda,lacteos,2025-08-25,120,3.75,35,5.0,23,Quesos Finos SA.,False,,2025-07-29,4.0,65.0,medio
+PRD008,Carne de Res Molida,carnes,2025-08-03,60,8.0,40,5.7,1,ResImportados,True,7.0,2025-07-30,1.5,85.0,alto
+PRD009,Jugo de Naranja Natural,bebidas,2025-08-17,250,2.5,100,14.3,15,Naranjas del Sol,False,,2025-07-31,6.0,85.0,bajo
+PRD010,Pan Integral,panaderia,2025-08-02,220,1.2,160,22.9,0,Panadería Moderna,False,,2025-07-31,22.0,55.0,bajo
+PRD011,Fresas Congeladas,frutas,2025-09-05,90,2.2,45,6.4,34,Congelados del Norte,True,1.8,2025-07-30,-18.0,40.0,medio
+PRD012,Yogurt Natural,lacteos,2025-09-01,180,0.7,90,12.9,30,Yogur Rico,False,,2025-07-31,4.0,70.0,bajo
+PRD013,Cola Cola 500ml,bebidas,2025-09-20,350,1.5,170,24.3,49,Refrescos Global,False,,2025-07-31,8.0,50.0,bajo
+PRD014,Bollo de Pan,panaderia,2025-08-02,250,1.1,200,28.6,0,Panaderos Unidos,False,,2025-07-31,22.0,55.0,bajo
+PRD015,Sandía,frutas,2025-08-22,75,3.0,55,7.9,20,Círculo Frutícola,False,,2025-07-31,6.0,90.0,bajo
+PRD016,Gaseosa Cola 2L,bebidas,2025-08-28,500,2.5,200,28.6,26,Refrescos Global,True,2.0,2025-07-31,8.0,50.0,bajo
+PRD017,Queso Cheddar,lacteos,2025-08-24,130,4.2,40,5.7,22,Quesos Finos SA.,False,,2025-07-30,4.0,65.0,medio
+PRD018,Brocoli Fresco,verduras,2025-08-07,70,1.5,30,4.3,5,Verduras del Valle,False,,2025-07-29,2.0,85.0,alto
+PRD001,Manzanas Fuji,frutas,2025-08-30,150,1.2,120,17.1,28,AgroFresca,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,80,0.95,90,12.9,13,Lácteos del Valle,True,0.85,2025-07-31,4.0,75.0,medio
+PRD003,Bananas Ricas,frutas,2025-08-24,200,0.5,180,25.7,22,Bananafield,False,,2025-08-01,13.0,88.0,bajo
+PRD004,Carne de Res Corte Fino,carnes,2025-08-18,50,8.5,45,6.4,16,CarneMaster,True,7.5,2025-07-29,0.0,60.0,alto
+PRD005,Yogur Natural 125g,lacteos,2025-08-10,180,0.75,160,22.9,8,YogurNatur,False,,2025-07-30,4.0,80.0,bajo
+PRD006,Pan Baguette,panaderia,2025-08-02,100,1.0,150,21.4,0,PanaderoFiel,False,,2025-07-30,22.0,70.0,bajo
+PRD007,Jugo de Naranja 1L,bebidas,2025-08-28,120,2.0,85,12.1,26,NaranjEx,False,,2025-07-31,8.0,65.0,bajo
+PRD008,Queso Gouda 200g,lacteos,2025-08-20,60,3.2,70,10.0,18,Quesos del Valle,False,,2025-07-29,4.0,75.0,medio
+PRD009,Manzanas Verde,frutas,2025-08-29,170,1.3,160,22.9,27,AgroFresca,False,,2025-07-31,4.0,85.0,bajo
+PRD010,Cerveza Lager 330ml,bebidas,2025-09-01,300,1.8,250,35.7,30,BrewHouse,False,,2025-07-31,12.0,60.0,bajo
+PRD011,Zanahorias Orgánicas,verduras,2025-08-27,130,0.9,110,15.7,25,VerdurAgro,False,,2025-07-30,10.0,80.0,bajo
+PRD012,Hamburguesas de Pollo,carnes,2025-08-17,40,5.5,35,5.0,15,CarnesExpress,True,4.9,2025-07-29,2.0,55.0,alto
+PRD013,Bebida Cola 2L,bebidas,2025-09-10,250,2.5,200,28.6,39,Refrescos del Mundo,False,,2025-07-30,10.0,70.0,bajo
+PRD014,Palitos de Pan,panaderia,2025-08-02,90,1.2,100,14.3,0,PanBake,False,,2025-07-31,22.0,70.0,bajo
+PRD015,Queso Crema 250g,lacteos,2025-08-25,70,2.8,60,8.6,23,Quesos del Valle,False,,2025-07-30,4.0,76.0,medio
+PRD016,Gaseosa Cola 500ml,bebidas,2025-08-19,220,1.5,190,27.1,17,Refrescos del Mundo,True,1.3,2025-07-31,12.0,65.0,bajo
+PRD017,Espinaca Orgánica,verduras,2025-08-26,90,1.1,80,11.4,24,VerdurAgro,False,,2025-07-30,10.0,80.0,bajo
+PRD018,Carne de Cerdo Filete,carnes,2025-08-16,45,7.0,40,5.7,14,CarnesExpress,False,,2025-07-29,2.0,55.0,alto
+PRD019,Agua Mineral 500ml,bebidas,2025-08-23,250,0.8,230,32.9,21,MineralPlus,False,,2025-07-30,8.0,70.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-31,150,1.2,100,14.3,29,AgroFruits Ltd.,False,,2025-07-30,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-09-02,200,0.9,180,25.7,31,DairyBest Co.,True,0.8,2025-08-01,4.0,85.0,bajo
+PRD003,Broccoli,verduras,2025-08-20,80,2.5,50,7.1,18,GreenFarm Inc.,False,,2025-07-31,2.0,60.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-10,120,5.0,80,11.4,8,Carnes y Más,False,,2025-07-29,1.5,65.0,alto
+PRD005,Pan Integral,panaderia,2025-08-05,300,1.0,170,24.3,3,BakeHappy Ltd.,True,0.9,2025-07-31,22.0,55.0,bajo
+PRD006,Agua Mineral 1.5L,bebidas,2025-09-15,400,0.5,220,31.4,43,HydroPure,False,,2025-07-28,10.0,80.0,bajo
+PRD007,Queso Gouda,lacteos,2025-08-28,60,3.5,45,6.4,26,DairyFresh Ltd.,False,,2025-07-30,4.0,75.0,bajo
+PRD008,Filete de Res,carnes,2025-08-12,70,8.5,35,5.0,10,PremiumMeats Co.,False,,2025-07-28,0.5,60.0,alto
+PRD009,Jugo de Naranja 1L,bebidas,2025-09-10,250,2.0,130,18.6,39,OrangeMundo,False,,2025-07-27,8.0,85.0,bajo
+PRD010,Yogurt Natural 125g,lacteos,2025-08-25,180,0.75,160,22.9,23,YogurtWorld,True,0.65,2025-07-30,4.0,70.0,bajo
+PRD011,Tajín Chili 50g,panaderia,2025-08-15,90,1.8,60,8.6,13,SpiceWorld,False,,2025-07-29,20.0,65.0,medio
+PRD012,Cerveza Artesanal 330ml,bebidas,2025-09-05,330,2.5,140,20.0,34,BrewMasters,False,,2025-07-31,4.0,60.0,medio
+PRD013,Bananas,frutas,2025-08-19,170,1.1,90,12.9,17,Tropical Fruits Co.,False,,2025-07-30,4.0,70.0,bajo
+PRD014,Pan de Hamburgesa,panaderia,2025-08-04,250,1.5,120,17.1,2,FastBake Ltd.,False,,2025-07-30,22.0,55.0,bajo
+PRD015,Refresco Cola 600ml,bebidas,2025-09-12,310,1.3,160,22.9,41,ColaWorld,True,1.2,2025-07-31,4.0,70.0,medio
+PRD016,Fresas,frutas,2025-08-17,130,2.8,75,10.7,15,BerryBest Ltd.,False,,2025-07-30,4.0,70.0,bajo
+PRD017,Leche Deslactosada 1L,lacteos,2025-09-02,190,1.0,160,22.9,31,DairyBest Co.,False,,2025-07-29,4.0,85.0,bajo
+PRD018,Coca-Cola 600ml,bebidas,2025-09-10,290,1.2,150,21.4,39,CocaCola Ltd.,False,,2025-07-31,4.0,70.0,bajo
+PRD019,Zanahorias,verduras,2025-08-21,90,1.3,55,7.9,19,VeggieWorld,False,,2025-07-30,2.0,60.0,medio
+PRD020,Té Verde 100g,bebidas,2025-09-05,160,3.0,85,12.1,34,TeaTime Co.,False,,2025-07-28,20.0,70.0,bajo
+PRD001,Manzanas Fuertes,frutas,2025-08-25,150,2.5,80,11.4,23,FruitCo,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-12,200,1.2,180,25.7,10,DairyBest,True,1.0,2025-07-29,4.0,90.0,bajo
+PRD003,Bananas,frutas,2025-08-20,300,0.5,150,21.4,18,TropicalFoods,False,,2025-07-31,5.0,80.0,bajo
+PRD004,Carne de Res Fresca 500g,carnes,2025-08-07,50,10.0,40,5.7,5,MeatPro,False,,2025-07-28,1.0,70.0,alto
+PRD005,Pan de Campo,panaderia,2025-08-16,100,1.0,70,10.0,14,BakeHouse,True,0.8,2025-07-31,22.0,60.0,medio
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-24,180,3.0,160,22.9,22,CitrusSupplies,False,,2025-07-29,8.0,85.0,bajo
+PRD007,Queso Gouda 200g,lacteos,2025-08-14,120,4.5,60,8.6,12,DairyBest,False,,2025-07-30,4.0,88.0,bajo
+PRD008,Carne de Pollo 1kg,carnes,2025-08-09,75,7.0,65,9.3,7,PoultryFarm,False,,2025-07-31,2.0,65.0,alto
+PRD009,Refresco Cola 2L,bebidas,2025-08-23,220,2.5,210,30.0,21,SoftDrinkCo,False,,2025-07-28,10.0,70.0,bajo
+PRD010,Yogur Natural 150g,lacteos,2025-08-17,160,1.5,140,20.0,15,DairyFresh,True,1.2,2025-07-31,4.0,89.0,bajo
+PRD011,Tomates,verduras,2025-08-19,250,1.0,130,18.6,17,VeggieWorld,False,,2025-07-30,7.0,75.0,medio
+PRD012,Leche Descremada 1L,lacteos,2025-08-13,190,1.1,170,24.3,11,DairyBest,False,,2025-07-30,4.0,88.0,bajo
+PRD013,Jamon Cocido 250g,carnes,2025-08-10,60,5.0,55,7.9,8,MeatPro,False,,2025-07-29,2.0,68.0,alto
+PRD014,Cerveza Artesanal 330ml,bebidas,2025-08-21,130,3.8,125,17.9,19,BrewMasters,False,,2025-07-30,12.0,60.0,medio
+PRD015,Pan de Muerto,panaderia,2025-08-03,80,2.2,75,10.7,1,BakeHouse,False,,2025-07-31,22.0,65.0,medio
+PRD016,Refresco Lemon 2L,bebidas,2025-08-20,210,2.8,200,28.6,18,CitrusSupplies,False,,2025-07-30,9.0,75.0,bajo
+PRD017,Queso Roquefort 150g,lacteos,2025-08-22,100,6.0,45,6.4,20,DairyDelights,False,,2025-07-28,4.0,89.0,bajo
+PRD018,Lomo de Cerdo 1kg,carnes,2025-08-11,90,8.5,55,7.9,9,MeatPro,False,,2025-07-29,2.0,65.0,alto
+PRD019,Agua Mineral 500ml,bebidas,2025-08-19,250,0.8,240,34.3,17,MineralWater,False,,2025-07-31,7.0,85.0,bajo
+PRD020,Mantequilla 250g,lacteos,2025-08-15,110,3.5,95,13.6,13,DairyDelights,False,,2025-07-29,4.0,87.0,bajo
+PRD001,Manzanas rojas,frutas,2025-08-31,120,1.2,50,7.1,29,Frutas del Valle,False,,2025-07-29,4.0,80.0,bajo
+PRD002,Leche entera 1L,lacteos,2025-08-15,85,0.9,30,4.3,13,Lácteos La Vaca,True,0.8,2025-07-30,4.0,85.0,bajo
+PRD003,Bananas maduras,frutas,2025-08-25,200,0.5,70,10.0,23,Banana Tropical,False,,2025-07-31,6.0,75.0,bajo
+PRD004,Yogur natural 6 piezas,lacteos,2025-08-12,60,2.5,15,2.1,10,Dairy Best,True,2.2,2025-07-28,4.0,80.0,bajo
+PRD005,Carne de res cortes selectos,carnes,2025-08-20,40,12.0,8,1.1,18,Carnes del Sur,False,,2025-07-27,2.0,60.0,alto
+PRD006,Pan integral 500g,panaderia,2025-08-08,150,1.0,60,8.6,6,Panaderia La Rural,False,,2025-07-30,22.0,55.0,medio
+PRD007,Agua mineral 1.5L,bebidas,2025-09-15,300,0.8,180,25.7,43,Hidratec,False,,2025-07-31,8.0,70.0,bajo
+PRD008,Queso gouda 200g,lacteos,2025-08-10,50,3.5,10,1.4,8,Quesos Finos,False,,2025-07-28,4.0,80.0,bajo
+PRD009,Naranja Valencia,frutas,2025-08-27,170,0.6,55,8.1,25,Círculo Frutal,False,,2025-07-30,5.0,80.0,bajo
+PRD010,Cerveza lager 330ml,bebidas,2025-09-05,250,1.5,120,17.1,34,Cervezas del Mundo,True,1.3,2025-07-31,10.0,75.0,medio
+PRD011,Manzanas verdes,frutas,2025-09-01,90,1.3,45,6.4,30,Frutas del Valle,False,,2025-07-29,4.0,80.0,bajo
+PRD012,Coca-Cola 2L,bebidas,2025-09-10,220,1.2,110,15.7,39,Refrescos Unidos,False,,2025-07-29,10.0,70.0,bajo
+PRD013,Pollo entero congelado,carnes,2025-08-18,30,9.5,12,1.7,16,Aves del Norte,False,,2025-07-27,-18.0,40.0,alto
+PRD014,Pan blanco 600g,panaderia,2025-08-07,140,1.2,55,7.9,5,Panaderia La Rural,False,,2025-07-30,22.0,55.0,medio
+PRD015,Refresco sabor naranja 330ml,bebidas,2025-09-20,200,1.0,95,13.6,49,Refrescos Unidos,True,0.9,2025-07-30,10.0,70.0,bajo
+PRD016,Queso cheddar 200g,lacteos,2025-08-19,45,4.0,9,1.3,17,Quesos Finos,False,,2025-07-28,4.0,80.0,bajo
+PRD017,Jugos tropicales 1L,bebidas,2025-09-25,130,2.0,65,9.3,54,JugoFresco,False,,2025-07-31,8.0,72.0,bajo
+PRD018,Huevo orgánico 12 piezas,verduras,2025-08-09,100,3.0,20,2.9,7,Huevos del Campo,False,,2025-07-30,5.0,85.0,bajo
+PRD019,Limon 1kg,verduras,2025-08-29,80,1.1,40,5.7,27,Círculo Frutal,False,,2025-07-29,6.0,80.0,bajo
+PRD020,Refresco cola 330ml,bebidas,2025-09-08,210,1.2,100,14.3,37,Refrescos Unidos,False,,2025-07-29,10.0,70.0,bajo
+PRD001,Manzanas Granny Smith,frutas,2025-08-25,120,1.2,50,7.1,23,Agricola del Valle,False,,2025-07-30,4.0,75.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-20,85,1.0,70,10.0,18,Lácteos San Juan,True,0.8,2025-07-29,4.5,80.0,bajo
+PRD003,Broccoli,verduras,2025-08-15,60,2.5,20,3.0,13,Verduras Orgánicas,False,,2025-07-31,1.5,85.0,medio
+PRD004,Filete de Pollo,carnes,2025-08-10,40,7.5,15,2.1,8,Carnes del Norte,False,,2025-07-31,2.0,70.0,alto
+PRD005,Pan Integral,panaderia,2025-08-04,150,1.8,120,17.1,2,Panadería Central,True,1.5,2025-07-31,22.0,65.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-28,200,2.0,90,12.9,26,Frutas y Jugos S.A.,False,,2025-07-30,5.0,80.0,bajo
+PRD007,Queso Cheddar 200g,lacteos,2025-08-22,75,3.5,55,7.8,20,Quesos del Norte,False,,2025-07-31,4.0,75.0,bajo
+PRD008,Hamburguesas de Carne,carnes,2025-08-12,30,5.0,10,1.4,10,Carnicería La Estrella,False,,2025-07-30,2.5,70.0,alto
+PRD009,Galletas Integrales,panaderia,2025-08-30,100,2.2,60,8.6,28,Panadería La Baguette,False,,2025-07-31,22.0,65.0,bajo
+PRD010,Agua Mineral 1.5L,bebidas,2025-08-27,180,1.3,80,11.4,25,Aguas Puras,False,,2025-07-29,8.0,80.0,bajo
+PRD011,Yogurt Natural 150g,lacteos,2025-08-19,90,0.9,65,9.3,17,Yogur Factory,True,0.7,2025-07-30,4.0,75.0,bajo
+PRD012,Salami de Cerdo,carnes,2025-08-16,45,4.5,12,1.7,14,Embutidos La Tradición,False,,2025-07-30,3.0,65.0,alto
+PRD013,Pan de Molde,panaderia,2025-08-06,130,2.0,100,14.3,4,Panadería La Primera,False,,2025-07-31,22.0,65.0,bajo
+PRD014,Jamon Cocido 100g,carnes,2025-08-09,55,3.8,20,2.9,7,Embutidos y Jamones,False,,2025-07-30,1.5,60.0,alto
+PRD015,Refresco Cola 355ml,bebidas,2025-08-24,160,1.5,95,13.6,22,Refrescos Global,True,1.2,2025-07-31,8.0,80.0,bajo
+PRD016,Mantequilla 200g,lacteos,2025-08-23,65,2.8,40,5.7,21,Lácteos San Juan,False,,2025-07-30,4.0,75.0,bajo
+PRD017,Naranja Sanguina 1kg,frutas,2025-08-14,100,3.0,35,5.0,12,Frutas y Jugos S.A.,False,,2025-07-31,10.0,85.0,bajo
+PRD018,Galletas Oreo,panaderia,2025-08-27,90,2.5,65,9.3,25,Galletas y Más,True,2.0,2025-07-31,22.0,65.0,bajo
+PRD019,Agua con Gas 500ml,bebidas,2025-08-29,170,1.4,75,10.7,27,Refrescos Global,False,,2025-07-30,8.0,80.0,bajo
+PRD020,Yogurt de Frambuesa 150g,lacteos,2025-08-18,80,1.1,58,8.3,16,Yogur Factory,False,,2025-07-30,4.0,75.0,bajo
+PRD-0001,Manzanas Golden,frutas,2025-08-20,150,1.2,70,10.0,18,Frutícola Central,False,,2025-07-31,4.0,85.0,bajo
+PRD-0002,Leche Entera 1L,lacteos,2025-08-15,60,0.9,55,8.0,13,Lácteos del Valle,True,0.8,2025-07-30,4.0,90.0,bajo
+PRD-0003,Zanahorias 500g,verduras,2025-08-25,200,0.5,120,17.0,23,Verduras Frescas,False,,2025-07-29,3.0,80.0,bajo
+PRD-0004,Pollo Piezas 1kg,carnes,2025-08-10,75,5.5,45,6.0,8,Carnes del Norte,True,5.0,2025-07-31,2.0,75.0,alto
+PRD-0005,Pan Baguette,panaderia,2025-08-06,300,1.0,160,23.0,4,Panadería La Tradición,False,,2025-07-31,8.0,70.0,medio
+PRD-0006,Agua Mineral 1.5L,bebidas,2025-09-05,400,0.6,210,30.0,34,Bebidas y Más,False,,2025-07-30,10.0,60.0,bajo
+PRD-0007,Queso Manchego 200g,lacteos,2025-08-18,50,3.2,30,4.0,16,Lácteos del Valle,False,,2025-07-28,4.0,88.0,medio
+PRD-0008,Fresas 250g,frutas,2025-08-04,80,2.5,55,8.0,2,Frutícola Central,True,2.0,2025-07-31,2.0,95.0,alto
+PRD-0009,Carne de Res 1kg,carnes,2025-08-09,40,9.8,20,3.0,7,Carnes del Norte,False,,2025-07-27,-1.0,80.0,alto
+PRD-0010,Jugo de Naranja 1L,bebidas,2025-08-30,120,1.5,90,13.0,28,JugoNaranja SA,False,,2025-07-29,8.0,70.0,bajo
+PRD-0011,Yogurt Natural 125g,lacteos,2025-08-12,90,0.8,65,9.0,10,Lácteos del Valle,False,,2025-07-30,4.0,85.0,bajo
+PRD-0012,Aceitunas Negras 150g,verduras,2025-08-27,55,2.0,35,5.0,25,Verduras Frescas,False,,2025-07-29,5.0,82.0,bajo
+PRD-0013,Cerveza Artesanal 330ml,bebidas,2025-09-10,180,2.8,130,19.0,39,Bebidas y Más,False,,2025-07-28,12.0,55.0,medio
+PRD-0014,Hamburguesa Ingredientes Pack,panaderia,2025-08-14,100,4.5,70,10.0,12,Panadería La Tradición,False,,2025-07-31,8.0,72.0,medio
+PRD-0015,Refresco Cola 330ml,bebidas,2025-08-09,220,1.2,140,20.0,7,Bebidas y Más,True,1.0,2025-07-31,8.0,65.0,medio
+PRD-0016,Espinaca 300g,verduras,2025-08-22,90,1.1,60,9.0,20,Verduras Frescas,False,,2025-07-29,2.0,85.0,bajo
+PRD-0017,Queso Gouda 200g,lacteos,2025-08-25,65,3.5,25,3.0,23,Lácteos del Valle,False,,2025-07-28,4.0,86.0,medio
+PRD-0018,Naranja 1kg,frutas,2025-08-18,170,1.0,100,14.0,16,Frutícola Central,False,,2025-07-30,5.0,85.0,bajo
+PRD-0019,Yogurt de Chocolate 125g,lacteos,2025-08-23,95,1.1,55,8.0,21,Lácteos del Valle,True,1.0,2025-07-31,4.0,84.0,bajo
+PRD-0020,Coca Cola 330ml,bebidas,2025-08-28,250,1.3,160,23.0,26,Bebidas y Más,False,,2025-07-31,8.0,65.0,medio
+PRD001,Manzanas Rojas,frutas,2025-08-20,150,1.2,45,6.4,18,Frutas del Valle,False,,2025-07-30,4.0,70.0,bajo
+PRD002,Leche Entera,lacteos,2025-08-15,80,0.9,60,8.6,13,Lácteos La Estrella,True,0.75,2025-07-29,4.0,85.0,bajo
+PRD003,Broccoli,verduras,2025-08-10,40,1.5,20,2.9,8,Verduras Naturales,False,,2025-07-31,2.0,65.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-05,60,5.0,35,5.0,3,Carnes del Sur,True,4.2,2025-07-30,0.0,75.0,alto
+PRD005,Pan de Dulce,panaderia,2025-08-02,200,0.8,150,21.4,0,Panaderia La Milagrosa,False,,2025-07-31,25.0,60.0,bajo
+PRD006,Jugo de Naranja,bebidas,2025-08-25,120,2.0,80,11.4,23,Bebidas Naturales,False,,2025-07-28,10.0,55.0,bajo
+PRD007,Yogur Natural,lacteos,2025-08-12,90,1.1,70,10.0,10,Dairy Farm,True,0.95,2025-07-29,4.0,80.0,bajo
+PRD008,Carne Molida de Res,carnes,2025-08-04,55,7.0,25,3.6,2,Carne y Mariscos Ltda.,False,,2025-07-27,-1.0,65.0,alto
+PRD009,Zumo de Manzana,bebidas,2025-08-22,130,2.5,90,12.9,20,Fruticola Sol del Valle,False,,2025-07-30,8.0,50.0,bajo
+PRD010,Queso Cheddar,lacteos,2025-08-18,75,3.5,55,7.9,16,Quesos Premium,False,,2025-07-31,4.0,75.0,bajo
+PRD011,Fresa Fresca,frutas,2025-08-19,100,2.0,55,7.9,17,Fresas del Bosque,True,1.8,2025-07-31,1.0,85.0,bajo
+PRD012,Pan Integral,panaderia,2025-08-02,180,1.0,140,20.0,0,Panadería La Salud,False,,2025-07-30,22.0,60.0,bajo
+PRD013,Agua Mineral 1.5L,bebidas,2025-08-25,160,0.85,100,14.3,23,Agua Pura,False,,2025-07-31,12.0,45.0,bajo
+PRD014,Melón Amarillo,frutas,2025-08-21,90,3.0,30,4.3,19,Frutas Tropicales,False,,2025-07-29,2.0,78.0,bajo
+PRD015,Cerveza Artesanal,bebidas,2025-09-05,70,3.8,35,5.0,34,Cervezas del Mundo,False,,2025-07-30,4.0,65.0,medio
+PRD016,Queso Fresco,lacteos,2025-08-16,85,2.8,65,9.3,14,Quesos del Valle,False,,2025-07-28,4.0,77.0,bajo
+PRD017,Tomates Cherry,verduras,2025-08-23,130,2.2,55,7.9,21,Verduras Frescas,True,2.0,2025-07-30,2.0,70.0,medio
+PRD018,Coca Cola 330ml,bebidas,2025-09-01,210,1.5,160,22.9,30,Bebidas y Más,False,,2025-07-29,12.0,55.0,bajo
+PRD019,Yogur de Frutas,lacteos,2025-08-14,95,1.4,75,10.7,12,Dairy Farm,True,1.2,2025-07-31,4.0,80.0,bajo
+PRD020,Pan Blanco,panaderia,2025-08-02,160,1.0,130,18.6,0,Panadería La Salud,False,,2025-07-30,22.0,60.0,bajo
+PRD-20250801-001,Manzanas Gala,frutas,2025-08-21,120,1.2,85,12.1,19,AgroFruits Co.,False,,2025-07-30,4.0,80.0,bajo
+PRD-20250801-002,Leche Entera 1L,lacteos,2025-08-15,50,0.99,60,8.6,13,DairyBest Ltd.,True,0.89,2025-07-29,4.0,85.0,bajo
+PRD-20250801-003,Tomates Rojos,verduras,2025-08-20,200,0.8,150,21.4,18,VerdeViva Supplies,False,,2025-07-31,10.0,70.0,medio
+PRD-20250801-004,Pechuga de Pollo,carnes,2025-08-10,75,5.5,90,12.9,8,Carnes del Sur,True,4.99,2025-07-29,2.0,80.0,alto
+PRD-20250801-005,Pan Artesano,panaderia,2025-08-09,100,2.5,110,15.7,7,PanArt Ltd.,False,,2025-07-31,22.0,60.0,bajo
+PRD-20250801-006,Jugo de Naranja 1L,bebidas,2025-08-18,60,1.5,70,10.0,16,JuicePure Inc.,True,1.35,2025-07-30,8.0,65.0,bajo
+PRD-20250801-007,Yogurt Natural 150g,lacteos,2025-08-12,200,0.5,140,20.0,10,YogurPlus Co.,False,,2025-07-31,4.0,85.0,bajo
+PRD-20250801-008,Carne de Res Picada,carnes,2025-08-14,80,7.0,55,7.9,12,ResFarm Foods,False,,2025-07-28,0.0,85.0,alto
+PRD-20250801-009,Cerveza Artesanal 330ml,bebidas,2025-09-01,180,2.3,160,22.9,30,BrewMasters Ltd.,False,,2025-07-29,12.0,50.0,medio
+PRD-20250801-010,Queso Gouda 200g,lacteos,2025-08-25,70,3.8,40,5.7,23,DairyLux,False,,2025-07-30,4.0,80.0,bajo
+PRD-20250801-011,Bananas Organic,frutas,2025-08-22,140,1.1,95,13.6,20,Organic Farms,True,1.0,2025-07-30,4.0,75.0,bajo
+PRD-20250801-012,Agua Mineral 1.5L,bebidas,2025-08-30,130,0.6,100,14.3,28,AquaPure Ltd.,False,,2025-07-31,10.0,55.0,bajo
+PRD-20250801-013,Pasta Fresca 250g,panaderia,2025-08-07,90,3.0,80,11.4,5,FreshPasta Co.,False,,2025-07-30,5.0,70.0,bajo
+PRD-20250801-014,Refresco Cola 330ml,bebidas,2025-09-05,170,1.2,160,22.9,34,SoftDrink Inc.,True,1.1,2025-07-29,12.0,50.0,medio
+PRD-20250801-015,Queso Crema 150g,lacteos,2025-08-19,55,2.5,35,5.0,17,DairyLux,False,,2025-07-30,4.0,80.0,bajo
+PRD-20250801-016,Brochetas de Carne,carnes,2025-08-17,40,6.0,30,4.3,15,CarneFresco Ltd.,False,,2025-07-27,0.0,85.0,alto
+PRD-20250801-017,Refresco Naranja 500ml,bebidas,2025-08-25,90,1.8,110,15.7,23,SoftDrink Inc.,False,,2025-07-30,12.0,55.0,medio
+PRD-20250801-018,Mantequilla 200g,lacteos,2025-08-23,65,2.7,45,6.4,21,DairyLux,False,,2025-07-30,4.0,80.0,bajo
+PRD-20250801-019,Carne de Cerdo Asada,carnes,2025-08-12,55,8.0,70,10.0,10,CerdoFácil Ltd.,True,7.2,2025-07-31,0.0,85.0,alto
+PRD001,Manzanas Golden,frutas,2025-08-31,150,1.2,85,12.1,29,Fruitz Co.,False,,2025-07-31,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,80,0.95,45,6.4,13,DairyBest,True,0.85,2025-07-29,4.0,90.0,medio
+PRD003,Yogurt Natural 500g,lacteos,2025-08-27,200,1.5,110,15.7,25,YogurtPro,False,,2025-07-30,4.0,88.0,medio
+PRD004,Pollo Orgánico 1kg,carnes,2025-08-07,60,8.5,30,4.3,5,OrganicMeat,False,,2025-07-28,2.0,85.0,alto
+PRD005,Pan Baguette,panaderia,2025-08-02,120,1.0,95,13.6,0,BakeryDelights,False,,2025-07-31,20.0,75.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-09-01,90,2.3,70,10.0,30,Citrus Ltd.,True,2.0,2025-07-30,4.0,85.0,bajo
+PRD007,Tomates Perita,verduras,2025-08-10,100,0.75,60,8.6,8,VeggieFarm,False,,2025-07-29,12.0,90.0,bajo
+PRD008,Cerveza Artesanal 330ml,bebidas,2025-09-15,50,3.8,25,3.6,43,BrewMasters,False,,2025-07-28,12.0,65.0,medio
+PRD009,Queso Gouda 200g,lacteos,2025-08-25,70,2.8,50,7.1,23,CheeseWorld,True,2.5,2025-07-30,8.0,80.0,medio
+PRD010,Espinaca Orgánica,verduras,2025-08-09,130,1.0,80,11.4,7,GreenLeaf,False,,2025-07-31,10.0,92.0,bajo
+PRD011,Refresco Cola 1.5L,bebidas,2025-09-20,100,1.5,85,12.1,49,SoftDrink Inc.,False,,2025-07-31,8.0,70.0,bajo
+PRD012,Camarones Frescos 500g,carnes,2025-08-06,40,12.5,20,2.9,4,Seafood Co.,False,,2025-07-28,0.0,85.0,alto
+PRD013,Melón Cantalupe,frutas,2025-08-25,90,2.0,60,8.6,23,Tropical Fruits,False,,2025-07-30,4.0,90.0,bajo
+PRD014,Jamon Cocido 200g,carnes,2025-08-20,55,3.5,35,5.0,18,Meat & Co.,True,3.0,2025-07-30,4.0,88.0,alto
+PRD015,Agua Mineral 1.5L,bebidas,2025-09-10,160,0.65,150,21.4,39,AquaPure,False,,2025-07-31,8.0,70.0,bajo
+PRD016,Fresas Pack 250g,frutas,2025-08-26,75,2.5,65,9.3,24,BerryGood,False,,2025-07-29,4.0,85.0,bajo
+PRD017,Bananas maduras,frutas,2025-08-08,180,0.9,140,20.0,6,Tropical Fruits,False,,2025-07-31,4.0,90.0,bajo
+PRD018,Coca Cola 355ml,bebidas,2025-09-12,130,1.2,100,14.3,41,Beverage Inc.,False,,2025-07-30,8.0,65.0,bajo
+PRD019,Carne de Res Picada 500g,carnes,2025-08-05,45,10.0,15,2.1,3,Meat & Co.,False,,2025-07-29,0.0,85.0,alto
+PRD1001,Manzanas Gala,frutas,2025-08-15,120,1.2,35,4.8,13,Frutas del Valle,False,,2025-07-31,4.0,70.0,bajo
+PRD1002,Leche Entera 1L,lacteos,2025-08-22,80,0.85,50,7.1,20,Lacteos del Norte,True,0.75,2025-07-30,4.0,75.0,bajo
+PRD1003,Bananas,frutas,2025-08-12,200,0.5,80,11.4,10,Banana Rico,False,,2025-07-30,5.0,65.0,bajo
+PRD1004,Pechuga de Pollo,carnes,2025-08-07,50,4.5,20,2.9,5,Carne y Sabor,True,4.0,2025-07-31,2.0,80.0,alto
+PRD1005,Yogurt Natural 150g,lacteos,2025-08-20,150,0.6,70,9.9,18,Yogur y Más,False,,2025-07-30,4.0,72.0,bajo
+PRD1006,Pan Integral 500g,panaderia,2025-08-09,100,2.0,60,8.6,7,Panadería La Espiga,False,,2025-07-31,22.0,60.0,medio
+PRD1007,Jugo de Naranja 1L,bebidas,2025-08-14,90,1.5,40,5.7,12,Jugo Verde,True,1.25,2025-07-31,8.0,65.0,bajo
+PRD1008,Queso Cheddar 200g,lacteos,2025-08-18,70,3.2,25,3.6,16,Quesos del Valle,False,,2025-07-30,6.0,68.0,medio
+PRD1009,Carne de Res Molida 1kg,carnes,2025-08-06,30,8.5,15,2.1,4,Carnes Premium,False,,2025-07-31,1.0,78.0,alto
+PRD1010,Agua Mineral 1.5L,bebidas,2025-08-25,160,0.9,90,12.9,23,Agua Pura,False,,2025-07-31,10.0,50.0,bajo
+PRD1011,Pan Blanco 400g,panaderia,2025-08-10,110,1.8,55,7.9,8,Panadería La Espiga,False,,2025-07-31,22.0,60.0,medio
+PRD1012,Salmon Ahumado 200g,verduras,2025-08-19,40,12.0,5,0.7,17,Mar de Norte,True,10.0,2025-07-30,2.0,85.0,alto
+PRD1013,Jugos Naturales Mix,bebidas,2025-08-16,95,2.5,33,4.7,14,Fruta y Vida,False,,2025-07-30,8.0,70.0,bajo
+PRD1014,Huevo Blanco 12 unidades,verduras,2025-08-05,90,2.3,60,8.6,3,HuevoFresco,False,,2025-07-31,10.0,50.0,bajo
+PRD1015,Coca Cola 2L,bebidas,2025-08-27,130,1.8,85,12.1,25,Bebidas Global,True,1.6,2025-07-31,8.0,60.0,bajo
+PRD1016,Queso Fresco 150g,lacteos,2025-08-23,65,2.8,22,3.1,21,Quesos del Valle,False,,2025-07-30,6.0,68.0,medio
+PRD1017,Pepinos,verduras,2025-08-11,150,0.7,60,8.6,9,Verduras Frescas,False,,2025-07-31,5.0,65.0,bajo
+PRD1018,Refresco de Cola 330ml,bebidas,2025-08-29,180,1.2,75,10.7,27,Bebidas Global,False,,2025-07-31,8.0,60.0,bajo
+PRD1019,Broccoli,verduras,2025-08-13,65,1.8,15,2.1,11,Verduras del Sol,False,,2025-07-31,4.0,70.0,bajo
+PRD1020,Fanta Naranja 1.5L,bebidas,2025-09-02,100,1.4,55,7.9,31,Bebidas Global,False,,2025-07-31,8.0,55.0,bajo
+PRD001,Manzanas Gala,frutas,2025-08-15,120,1.2,50,7.1,13,Frutícola del Valle,True,0.99,2025-07-31,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-12,85,0.99,35,5.0,10,Lácteos del Norte,False,,2025-07-30,4.0,75.0,bajo
+PRD003,Broccoli Fresco,verduras,2025-08-18,60,2.5,20,3.0,16,Verduras Orgánicas,False,,2025-07-29,2.0,80.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-10,45,5.75,25,3.6,8,Carnes del Norte,True,5.25,2025-07-31,0.0,60.0,alto
+PRD005,Pan Baguette,panaderia,2025-08-04,100,1.0,70,10.0,2,Panadería La Central,False,,2025-07-31,12.0,85.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-20,150,2.2,40,5.7,18,Bebidas Refrescantes,False,,2025-07-30,8.0,65.0,bajo
+PRD007,Yogur Natural 125g,lacteos,2025-08-09,90,0.89,28,4.0,7,Lácteos del Norte,True,0.69,2025-07-30,4.0,72.0,bajo
+PRD008,Fresas 250g,frutas,2025-08-14,70,3.0,15,2.1,12,Fruvenduras,False,,2025-07-28,2.0,90.0,medio
+PRD009,Carne de Res Picada 500g,carnes,2025-08-11,40,7.3,10,1.4,9,Carnes del Norte,False,,2025-07-30,0.0,55.0,alto
+PRD010,Agua Mineral 1.5L,bebidas,2025-08-25,200,0.85,60,8.6,23,Refrescos y Más,True,0.75,2025-07-31,10.0,50.0,bajo
+PRD011,Queso Cheddar 200g,lacteos,2025-08-17,55,4.5,18,2.5,15,Lácteos del Norte,False,,2025-07-29,4.0,65.0,bajo
+PRD012,Plátanos Maduritos,frutas,2025-08-13,130,0.95,55,7.8,11,Frutícola del Valle,False,,2025-07-30,4.0,72.0,bajo
+PRD013,Bebida Energizante 500ml,bebidas,2025-08-16,90,2.75,22,3.1,14,Bebidas Refrescantes,False,,2025-07-29,8.0,60.0,alto
+PRD014,Queso Fresco 250g,lacteos,2025-08-19,65,3.8,12,1.7,17,Lácteos del Norte,False,,2025-07-30,4.0,60.0,bajo
+PRD015,Naranja 1kg,frutas,2025-08-20,140,1.1,48,6.9,18,Fruvenduras,False,,2025-07-28,4.0,70.0,bajo
+PRD016,Refresco Cola 2L,bebidas,2025-08-22,180,1.5,55,7.9,20,Refrescos y Más,False,,2025-07-29,10.0,52.0,bajo
+PRD017,Yogur de Coco 125g,lacteos,2025-08-21,80,1.1,25,3.6,19,Lácteos del Norte,False,,2025-07-30,4.0,68.0,bajo
+PRD018,Cerveza Artesanal 355ml,bebidas,2025-08-30,75,2.95,30,4.3,28,Bebidas Artesanales,True,2.65,2025-07-31,8.0,55.0,medio
+PRD019,Gelatina en Polvo 100g,panaderia,2025-08-16,65,1.15,18,2.6,14,Horneados del Norte,False,,2025-07-28,16.0,70.0,bajo
+PRD020,Croissant de Mantequilla,panaderia,2025-08-07,90,1.5,65,9.3,5,Horneados del Norte,False,,2025-07-31,16.0,75.0,bajo
+PRD001,Manzanas Gala,frutas,2025-08-31,120,1.2,70,10.0,29,Fruverso Ltda,False,,2025-08-01,4.0,80.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-09-05,80,0.95,50,7.1,34,Lacteos del Valle,True,0.85,2025-08-01,4.0,75.0,bajo
+PRD003,Zanahorias,verduras,2025-08-20,200,0.6,130,18.6,18,Verduras y más,False,,2025-07-31,5.0,85.0,bajo
+PRD004,Pechuga de Pollo,carnes,2025-08-09,60,4.5,35,5.0,7,Carne Suprema,True,4.0,2025-07-31,2.0,70.0,medio
+PRD005,Pan Integral,panaderia,2025-08-10,150,2.0,90,12.9,8,Panaderia La Espiga,False,,2025-08-01,20.0,60.0,bajo
+PRD006,Agua Mineral 500ml,bebidas,2025-09-15,250,0.5,150,21.4,44,Bebidas del Mundo,False,,2025-08-01,10.0,50.0,bajo
+PRD007,Yogur Natural 125g,lacteos,2025-08-15,100,1.1,65,9.3,13,Yogurt Express,False,,2025-07-31,4.0,75.0,bajo
+PRD008,Carne de Res Picada 500g,carnes,2025-08-12,70,6.0,40,5.7,10,Carnes del Sur,True,5.5,2025-08-01,1.0,65.0,medio
+PRD009,Jugo de Naranja 1L,bebidas,2025-09-01,180,2.3,100,14.3,30,Jugos y Sabor,False,,2025-07-30,8.0,60.0,bajo
+PRD010,Queso Gouda 200g,lacteos,2025-09-10,90,3.5,55,7.9,39,Quesos Finos,False,,2025-08-01,4.0,75.0,bajo
+PRD011,Manzana Verde,frutas,2025-08-25,140,1.3,80,11.4,23,Fruverso Ltda,False,,2025-07-31,4.0,80.0,bajo
+PRD012,Bebida Cola 330ml,bebidas,2025-09-20,300,1.0,200,28.6,49,Refrescos y Más,False,,2025-07-31,8.0,55.0,bajo
+PRD013,Yogur de Frambuesa 150g,lacteos,2025-08-18,85,1.4,45,6.4,16,Yogurt Express,False,,2025-07-31,4.0,75.0,bajo
+PRD014,Fresas 250g,frutas,2025-08-22,95,2.5,60,8.6,20,Fruverso Ltda,False,,2025-07-30,4.0,80.0,bajo
+PRD015,Jamon Serrano 100g,carnes,2025-08-14,50,7.5,30,4.3,12,Embutidos La Villa,False,,2025-07-31,2.0,60.0,medio
+PRD016,Refresco de Limón 500ml,bebidas,2025-09-05,220,1.2,150,21.4,34,Refrescos y Más,False,,2025-07-30,8.0,55.0,bajo
+PRD017,Queso Crema 150g,lacteos,2025-09-08,75,2.8,48,6.9,37,Quesos Finos,False,,2025-07-30,4.0,75.0,bajo
+PRD018,Naranja Valencia 1kg,frutas,2025-08-24,130,1.0,85,12.1,22,Fruverso Ltda,False,,2025-07-30,4.0,80.0,bajo
+PRD019,Agua con Gas 600ml,bebidas,2025-09-12,190,1.2,120,17.1,41,Bebidas del Mundo,False,,2025-07-30,8.0,55.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-31,120,1.2,80,11.4,29,Agrícola La Huerta,False,,2025-08-01,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,85,0.9,50,7.1,13,Dairy Fresh,True,0.8,2025-08-01,4.0,65.0,medio
+PRD003,Yogurt Griego 150g,lacteos,2025-09-05,200,1.5,120,17.1,34,Yogurtia,False,,2025-08-01,4.0,60.0,medio
+PRD004,Bananas,frutas,2025-08-20,60,0.6,70,10.0,18,Frutas del Valle,False,,2025-08-01,4.0,75.0,bajo
+PRD005,Pepsi 2L,bebidas,2025-09-10,150,1.2,130,18.6,39,PepsiCo,True,1.0,2025-08-01,10.0,80.0,bajo
+PRD006,Filete de Pollo 500g,carnes,2025-08-12,40,4.5,30,4.3,10,Carnes Del Valle,False,,2025-07-31,2.0,55.0,alto
+PRD007,Pan Integral 600g,panaderia,2025-08-10,90,2.0,60,8.6,8,Panaderia La Plaza,False,,2025-08-01,22.0,50.0,bajo
+PRD008,Zumo Naranja 1L,bebidas,2025-08-25,70,1.1,75,10.7,23,Zanjar,False,,2025-08-02,8.0,85.0,bajo
+PRD009,Queso Gouda 200g,lacteos,2025-09-15,50,3.0,25,3.6,44,Quesos del Valle,False,,2025-07-30,4.0,65.0,medio
+PRD010,Jamon Cocido 250g,carnes,2025-08-13,35,3.5,20,2.9,11,Carnes y Delicias,False,,2025-07-29,2.0,50.0,alto
+PRD011,Refresco Cola 330ml,bebidas,2025-09-05,160,0.8,200,28.6,34,Coca-Cola,True,0.7,2025-08-01,10.0,85.0,bajo
+PRD012,Fresas 250g,frutas,2025-08-07,55,2.5,45,6.4,5,Fresas del Valle,False,,2025-08-01,4.0,70.0,alto
+PRD013,Cerveza Corona 355ml,bebidas,2025-09-20,90,1.8,90,12.9,49,Cervezas del Mundo,False,,2025-08-02,8.0,80.0,bajo
+PRD014,Tomates 500g,verduras,2025-08-19,100,1.4,95,13.6,17,Verduras Orgánicas,False,,2025-08-02,4.0,80.0,bajo
+PRD015,Espinacas 300g,verduras,2025-08-17,45,1.2,40,5.7,15,Verduras del Valle,False,,2025-08-01,4.0,70.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-22,120,1.2,50,7.1,20,AgroFruits Ltd.,False,,2025-08-01,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-12,85,0.9,30,4.3,10,DairyBest Co.,True,0.75,2025-07-31,4.0,80.0,bajo
+PRD003,Tomates Perita,verduras,2025-08-10,200,0.6,70,10.0,8,Veggie Fresh,False,,2025-07-30,10.0,70.0,medio
+PRD004,Pollo Entero,carnes,2025-08-06,60,5.5,20,2.9,4,Carnes del Sur,True,5.0,2025-07-31,0.0,75.0,alto
+PRD005,Yogur Natural 150g,lacteos,2025-08-18,150,0.8,40,5.7,16,DairyBest Co.,False,,2025-07-29,4.0,82.0,bajo
+PRD006,Pan Integral Rústico,panaderia,2025-08-04,180,2.0,60,8.6,2,Panaderos Unidos,False,,2025-07-31,22.0,60.0,bajo
+PRD007,Coca Cola 355ml,bebidas,2025-09-02,300,1.5,120,17.1,31,Beverage Co.,True,1.3,2025-07-28,4.0,85.0,bajo
+PRD008,Queso Cheddar 200g,lacteos,2025-08-19,90,2.5,15,2.1,17,Cheese Co.,False,,2025-07-30,4.0,80.0,bajo
+PRD009,Zanahorias 1kg,verduras,2025-08-15,250,0.4,90,12.9,13,Veggie Fresh,False,,2025-07-31,10.0,65.0,medio
+PRD010,Pan de Caja Blanco,panaderia,2025-08-05,170,1.8,55,7.9,3,Panaderos Unidos,True,1.6,2025-07-31,22.0,58.0,bajo
+PRD011,Jugo de Naranja 1L,bebidas,2025-08-27,130,2.0,45,6.4,25,JuiceMakers,False,,2025-07-29,4.0,80.0,bajo
+PRD012,Fresas 250g,frutas,2025-08-13,160,2.5,80,11.4,11,BerryFarm,False,,2025-07-30,4.0,90.0,alto
+PRD013,Manzanas Gala,frutas,2025-08-20,100,1.3,35,5.0,18,AgroFruits Ltd.,False,,2025-07-31,4.0,80.0,bajo
+PRD014,Carne Molida 500g,carnes,2025-08-07,50,6.0,25,3.6,5,Carnes del Sur,False,,2025-07-29,0.0,70.0,alto
+PRD015,Agua Mineral 500ml,bebidas,2025-09-01,220,0.5,100,14.3,30,AquaPure,False,,2025-07-28,4.0,88.0,bajo
+PRD016,Pan Dulce 200g,panaderia,2025-08-03,90,2.5,40,5.7,1,Dulces Delicias,True,2.2,2025-07-31,22.0,55.0,bajo
+PRD017,Refresco Cola 2L,bebidas,2025-09-05,110,3.0,35,5.0,34,Beverage Co.,False,,2025-07-30,4.0,85.0,bajo
+PRD018,Queso Ricotta 250g,lacteos,2025-08-25,80,2.8,18,2.6,23,Cheese Co.,False,,2025-07-31,4.0,80.0,bajo
+PRD019,Fresa Congelada 500g,frutas,2025-08-24,70,3.0,22,3.1,22,FrozenFruits Inc.,False,,2025-07-30,-18.0,70.0,alto
+PRD-001,Manzanas Rojas,frutas,2025-08-12,150,1.2,70,10.0,10,FruVeg Supplies,False,,2025-08-01,4.0,65.0,medio
+PRD-002,Leche Entera 1L,lacteos,2025-08-20,80,0.99,35,5.0,18,DairyBest,True,0.89,2025-08-01,4.0,70.0,bajo
+PRD-003,Bananas,frutas,2025-08-10,200,0.45,140,20.0,8,Tropical Fruits Co.,False,,2025-07-31,13.0,75.0,medio
+PRD-004,Carne de Pollo,carnes,2025-08-05,50,3.99,30,4.0,3,Meat World,False,,2025-07-31,2.0,85.0,alto
+PRD-005,Yogur de Frutas 125g,lacteos,2025-08-15,120,0.55,60,8.0,13,DairyJoy,True,0.5,2025-08-01,4.0,70.0,bajo
+PRD-006,Pan Baguette,panaderia,2025-08-02,300,0.85,180,25.0,0,Baker's Delight,False,,2025-07-31,22.0,60.0,bajo
+PRD-007,Refresco Cola 330ml,bebidas,2025-08-25,400,0.75,200,28.0,23,Beverage Inc.,False,,2025-08-01,10.0,65.0,bajo
+PRD-008,Queso Gouda 200g,lacteos,2025-08-18,60,2.45,15,2.0,16,Cheese Masters,False,,2025-07-30,8.0,80.0,medio
+PRD-009,Tomates Orgánicos,verduras,2025-08-11,90,1.0,50,7.0,9,Organic Farm,False,,2025-07-31,13.0,80.0,medio
+PRD-010,Agua Mineral 1.5L,bebidas,2025-08-30,250,0.6,150,22.0,28,PureWater Co.,True,0.55,2025-08-01,12.0,75.0,bajo
+PRD-011,Carne de Res,carnes,2025-08-07,40,7.99,25,3.5,5,Steak House,False,,2025-07-31,2.0,90.0,alto
+PRD-012,Jugo de Naranja 1L,bebidas,2025-08-24,130,1.25,90,13.0,22,Citrus Ltd.,False,,2025-07-30,10.0,65.0,bajo
+PRD-013,Pan Dulce,panaderia,2025-08-02,220,1.2,160,23.0,0,Sweet Bakery,False,,2025-07-31,22.0,60.0,bajo
+PRD-014,Espárragos Verdes,verduras,2025-08-13,70,2.5,40,6.0,11,Green Valley,False,,2025-07-30,4.0,85.0,medio
+PRD-015,Agua de Coco 500ml,bebidas,2025-08-19,180,1.8,85,12.0,17,Coco World,False,,2025-07-30,12.0,80.0,bajo
+PRD-001,Manzanas Red Delicious,frutas,2025-08-15,120,1.2,95,13.6,13,FreshFruits Co.,False,,2025-08-01,4.0,85.0,bajo
+PRD-002,Yogur Natural 1L,lacteos,2025-08-10,85,2.5,70,10.0,8,DairyBest Ltd.,True,2.0,2025-08-01,4.0,80.0,bajo
+PRD-003,Lechuga Orgánica,verduras,2025-08-20,60,0.8,45,6.4,18,GreenFarm Supplies,False,,2025-07-31,3.0,90.0,bajo
+PRD-004,Pollo Orgánico Piezas,carnes,2025-08-09,40,7.5,30,4.3,7,OrganicMeats Inc.,False,,2025-07-29,0.0,80.0,alto
+PRD-005,Pan Baguette Tradicional,panaderia,2025-08-02,150,1.0,180,25.7,0,BakeHouse Ltd.,False,,2025-08-02,20.0,70.0,medio
+PRD-006,Agua Mineral Natural 500ml,bebidas,2025-09-05,200,0.5,160,22.9,34,MineralSpring Co.,True,0.45,2025-07-31,10.0,60.0,bajo
+PRD-007,Queso Cheddar 200g,lacteos,2025-08-30,70,3.5,55,7.8,28,CheeseMakers LLC.,False,,2025-07-29,8.0,70.0,bajo
+PRD-008,Carne de Res Picada 500g,carnes,2025-08-07,55,8.0,22,3.1,5,MeatSuppliers Inc.,False,,2025-07-31,-1.0,85.0,alto
+PRD-009,Jugo de Naranja 1L,bebidas,2025-08-12,90,2.0,85,12.1,10,Citrus Farms,True,1.8,2025-07-31,4.0,75.0,bajo
+PRD-010,Pan de Molde Integral,panaderia,2025-08-02,180,1.5,200,28.6,0,WholeGrain Bakery,False,,2025-08-02,20.0,65.0,medio
+PRD-011,Fresa Orgánica 250g,frutas,2025-08-18,75,2.2,50,7.1,16,BerryFarm Ltd.,False,,2025-07-30,4.0,88.0,bajo
+PRD-012,Refresco Cola 330ml,bebidas,2025-09-01,130,1.2,110,15.7,30,FizzBrew Ltd.,False,,2025-07-31,8.0,65.0,bajo
+PRD-013,Galletas Integrales 200g,panaderia,2025-08-20,100,2.8,80,11.4,18,SnacksWorld,False,,2025-07-30,20.0,70.0,medio
+PRD-014,Carne de Cerdo Chuleta 1kg,carnes,2025-08-05,45,10.0,25,3.6,3,PorkProducers Inc.,False,,2025-07-29,-2.0,78.0,alto
+PRD-015,Agua Saborizada Limón 330ml,bebidas,2025-08-25,95,1.5,75,10.7,23,FlavorDrinks Ltd.,True,1.3,2025-07-31,4.0,82.0,bajo
+PRD-016,Queso Mozzarella 200g,lacteos,2025-08-17,65,4.0,60,8.5,15,DairyBest Ltd.,False,,2025-07-30,8.0,70.0,bajo
+PRD-017,Fresas Congeladas 500g,frutas,2025-08-27,90,3.0,65,9.3,25,FrozenFruits Ltd.,False,,2025-07-29,-18.0,60.0,alto
+PRD-018,Cerveza Artesanal 330ml,bebidas,2025-09-05,110,2.8,90,12.9,34,CraftBeers Inc.,False,,2025-07-30,12.0,55.0,bajo
+PRD-019,Chocolate negro 70% 100g,panaderia,2025-08-22,80,2.0,60,8.6,20,SweetTreats Ltd.,True,1.8,2025-07-30,20.0,50.0,medio
+PRD-020,Galletas de Arroz 150g,panaderia,2025-08-24,95,2.5,75,10.7,22,RiceCookies Co.,False,,2025-07-29,20.0,70.0,medio
+PRD-1001,Manzanas Golden,frutas,2025-08-20,150,1.2,85,12.1,18,AgroFruits Ltd.,False,,2025-07-30,4.0,85.0,medio
+PRD-1002,Leche Entera 1L,lacteos,2025-08-12,80,0.99,70,10.0,10,DairyBest Co.,True,0.89,2025-07-31,4.0,75.0,bajo
+PRD-1003,Tomates Rojos,verduras,2025-08-18,200,0.6,150,21.4,16,FarmFresh Ltd.,False,,2025-07-29,10.0,80.0,medio
+PRD-1004,Bistec de Res 500g,carnes,2025-08-05,50,7.5,30,4.3,3,CarnesPremium,False,,2025-07-28,0.0,90.0,alto
+PRD-1005,Pan Integral 500g,panaderia,2025-08-07,180,2.0,170,24.3,5,BakeGood,True,1.8,2025-07-30,22.0,60.0,bajo
+PRD-1006,Agua Mineral 1.5L,bebidas,2025-09-01,300,0.5,200,28.6,30,HydroSupply Inc.,False,,2025-07-31,8.0,50.0,bajo
+PRD-1007,Yogur Natural 125g,lacteos,2025-08-10,120,1.0,95,13.6,8,YogurPlus,False,,2025-07-31,4.0,85.0,bajo
+PRD-1008,Bananas 1kg,frutas,2025-08-19,170,1.1,130,18.6,17,Tropical Farms,True,1.0,2025-07-29,4.0,80.0,medio
+PRD-1009,Pollo Entero 1kg,carnes,2025-08-04,60,6.8,40,5.7,2,FreshMeat Co.,False,,2025-07-27,2.0,88.0,alto
+PRD-1010,Jugo de Naranja 1L,bebidas,2025-08-17,250,1.3,190,27.1,15,CitrusCo,False,,2025-07-31,8.0,55.0,bajo
+PRD-1011,Queso Gouda 200g,lacteos,2025-08-09,90,2.5,60,8.6,7,DairyBest Co.,False,,2025-07-30,4.0,70.0,bajo
+PRD-1012,Carne de Cerdo 1kg,carnes,2025-08-03,40,8.2,25,3.6,1,CarnesPremium,False,,2025-07-25,2.0,85.0,alto
+PRD-1013,Refresco Cola 2L,bebidas,2025-09-01,130,1.5,140,20.0,30,FizzBeverages,True,1.3,2025-07-30,8.0,50.0,bajo
+PRD-1014,Leche Descremada 1L,lacteos,2025-08-11,100,0.95,75,10.7,9,DairyBest Co.,False,,2025-07-31,4.0,75.0,bajo
+PRD-1015,Sandía 2kg,frutas,2025-08-21,140,3.0,100,14.3,19,Tropical Farms,False,,2025-07-30,4.0,80.0,medio
+PRD-1016,Cerveza Local 355ml,bebidas,2025-09-05,220,1.8,180,25.7,34,BrewMasters,False,,2025-07-31,12.0,60.0,bajo
+PRD-1017,Queso Cheddar 200g,lacteos,2025-08-16,95,3.2,55,7.9,14,DairyBest Co.,False,,2025-07-30,4.0,70.0,bajo
+PRD-1018,Jamon Serrano 100g,carnes,2025-08-14,75,4.5,35,5.0,12,CuredMeat Inc.,False,,2025-07-29,2.0,85.0,alto
+PRD-1019,Refresco Limón 2L,bebidas,2025-08-25,160,1.4,155,22.1,23,FizzBeverages,True,1.2,2025-07-30,8.0,55.0,bajo
+PRD1001,Manzanas rojas,frutas,2025-08-31,150,2.5,120,17.1,59,FruitSupply Co.,False,,2025-07-30,4.0,65.0,medio
+PRD1002,Leche entera litro,lacteos,2025-08-15,80,1.2,70,10.0,13,DairyBest Ltd.,True,0.9,2025-07-31,4.0,85.0,alto
+PRD1003,Bananas maduras,frutas,2025-08-20,200,1.0,160,22.9,18,Tropical Fruits Inc.,False,,2025-07-29,14.0,70.0,medio
+PRD1004,Pechuga de pollo,carnes,2025-08-10,60,5.5,45,6.4,8,FreshMeat Supplies,True,5.0,2025-07-31,2.0,60.0,alto
+PRD1005,Queso gouda,lacteos,2025-08-28,50,3.8,40,5.7,26,CheeseWorld Ltd.,False,,2025-07-28,8.0,75.0,medio
+PRD1006,Agua mineral 500ml,bebidas,2025-08-25,300,0.5,250,35.7,23,AquaPure Supplies,False,,2025-07-27,10.0,55.0,bajo
+PRD1007,Pan integral,panaderia,2025-08-05,100,2.0,90,12.9,3,BakeryBest,True,1.8,2025-07-31,20.0,80.0,bajo
+PRD1008,Zanahorias,verduras,2025-08-22,180,0.8,150,21.4,20,VeggieFresh Ltd.,False,,2025-07-30,5.0,60.0,medio
+PRD1009,Cerveza artesanal,bebidas,2025-09-01,120,3.5,80,11.4,30,CraftBeers Co.,False,,2025-07-29,4.0,50.0,bajo
+PRD1010,Yogurt natural,lacteos,2025-08-18,90,1.5,75,10.7,16,YogurtCo,True,1.2,2025-07-31,4.0,85.0,alto
+PRD1011,Chocolate negro 70%,panaderia,2025-08-25,40,4.0,30,4.3,23,SweetTreats Ltd.,False,,2025-07-28,18.0,60.0,medio
+PRD1012,Sandía,frutas,2025-08-19,170,3.0,140,20.0,17,Tropical Fruits Inc.,False,,2025-07-29,10.0,68.0,bajo
+PRD1013,Gaseosa cola 1.5L,bebidas,2025-09-15,210,1.8,195,27.9,43,Fizzy Drinks Ltd.,True,1.5,2025-07-31,4.0,45.0,bajo
+PRD1014,Espinaca fresca,verduras,2025-08-23,160,1.2,130,18.6,21,GreenLeaf Ltd.,False,,2025-07-30,4.0,70.0,medio
+PRD1015,Jugo de naranja 1L,bebidas,2025-08-17,130,2.0,125,17.9,15,CitrusWorld Ltd.,False,,2025-07-31,8.0,65.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-25,120,1.2,85,12.1,23,AgroFruits Ltd.,False,,2025-07-31,4.0,85.0,medio
+PRD002,Leche Entera 1L,lacteos,2025-08-10,75,0.9,60,8.6,8,DairyPure,True,0.7,2025-07-30,4.0,70.0,bajo
+PRD003,Broccoli Fresco,verduras,2025-08-20,50,2.5,30,4.3,18,GreenVeg Suppliers,False,,2025-07-29,2.0,80.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-05,40,5.5,25,3.6,3,MeatPro Inc.,False,,2025-07-31,0.0,65.0,alto
+PRD005,Pan Baguette,panaderia,2025-08-03,100,1.0,150,21.4,1,Bakery Plus,True,0.8,2025-07-31,8.0,75.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-09-01,200,2.0,95,13.6,30,Citrus Co.,False,,2025-07-30,4.0,80.0,bajo
+PRD007,Yogurt Griego 500g,lacteos,2025-08-15,60,3.0,40,5.7,13,YogoBest,False,,2025-07-31,4.0,60.0,bajo
+PRD008,Carne de Res Molida 500g,carnes,2025-08-07,30,6.0,20,2.9,5,ResFarm Suppliers,False,,2025-07-30,0.0,65.0,alto
+PRD009,Agua Mineral 1.5L,bebidas,2025-09-10,150,1.5,80,11.4,39,MineralWorld,False,,2025-07-30,4.0,70.0,bajo
+PRD010,Pan de Cookies,panaderia,2025-08-04,90,1.5,130,18.6,2,SweetBakery,True,1.2,2025-07-31,8.0,75.0,bajo
+PRD011,Fresa Congelada 1kg,frutas,2025-08-30,70,3.5,55,7.9,28,FrozenFruits Inc.,False,,2025-07-30,-18.0,45.0,alto
+PRD012,Vino Tinto 750ml,bebidas,2025-09-20,80,8.5,45,6.4,49,VinoViva,False,,2025-07-31,14.0,60.0,medio
+PRD013,Queso Manchego 250g,lacteos,2025-08-25,35,4.5,25,3.6,23,CheeseMasters,False,,2025-07-30,4.0,50.0,bajo
+PRD014,Cerveza Artesanal 330ml,bebidas,2025-09-15,90,3.8,35,5.0,44,BrewMasters,False,,2025-07-29,4.0,65.0,medio
+PRD015,Jamon Serrano 100g,carnes,2025-08-18,45,7.0,15,2.1,16,SerranoDelights,False,,2025-07-30,0.0,60.0,alto
+PRD016,Mandarina Navel,frutas,2025-08-24,100,1.3,75,10.7,22,CitrusPro,False,,2025-07-31,4.0,85.0,medio
+PRD017,Refresco Cola 1.5L,bebidas,2025-09-05,180,1.4,110,15.7,34,Fizzy Drinks,True,1.2,2025-07-31,4.0,70.0,bajo
+PRD018,Queso Brie 200g,lacteos,2025-08-28,25,6.5,10,1.4,26,LuxuryCheese,False,,2025-07-29,4.0,55.0,bajo
+PRD019,Coca Cola 2L,bebidas,2025-09-12,220,2.0,130,18.6,41,Fizzy Drinks,False,,2025-07-31,4.0,70.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-25,120,1.2,65,9.3,23,Frutas del Valle,False,,2025-07-30,4.0,60.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,85,0.9,75,10.7,13,Lácteos San Miguel,True,0.75,2025-07-31,4.0,70.0,bajo
+PRD003,Tomates Riñón,verduras,2025-08-20,200,0.5,130,18.6,18,Verduras La Huerta,False,,2025-07-29,8.0,65.0,medio
+PRD004,Filetes de Pollo,carnes,2025-08-10,60,5.5,40,5.7,8,Carnes del Valle,False,,2025-07-28,2.0,55.0,alto
+PRD005,Pan Integral 500g,panaderia,2025-08-05,150,2.0,90,12.9,3,Panadería La Esquina,True,1.8,2025-07-31,22.0,50.0,bajo
+PRD006,Coca Cola 2L,bebidas,2025-09-01,300,1.8,180,25.7,30,Bebidas Internacional,False,,2025-07-30,4.0,65.0,bajo
+PRD007,Yogurt Griego 150g,lacteos,2025-08-22,50,1.5,55,7.9,20,Yogurt Express,False,,2025-07-29,4.0,60.0,bajo
+PRD008,Bananas maduras,frutas,2025-08-24,180,0.8,110,15.7,22,Bananas del Pacífico,False,,2025-07-30,5.0,70.0,bajo
+PRD009,Jamón Cocido 200g,carnes,2025-08-12,70,3.0,30,4.3,10,Carnes Selectas,False,,2025-07-27,2.0,55.0,alto
+PRD010,Refrescos variados pack 6,bebidas,2025-08-30,250,4.5,140,20.0,28,Refrescos y Mas,True,4.0,2025-07-31,4.0,60.0,bajo
+PRD011,Queso Cheddar 250g,lacteos,2025-08-18,45,2.5,50,7.1,16,Quesos del Norte,False,,2025-07-28,4.0,65.0,bajo
+PRD012,Lechuga Eco,verduras,2025-08-19,90,0.9,70,10.0,17,Verduras Orgánicas,False,,2025-07-29,8.0,60.0,medio
+PRD013,Bebida Energética 250ml,bebidas,2025-09-05,130,2.0,100,14.3,34,Energías Positivas,False,,2025-07-30,4.0,65.0,medio
+PRD014,Pastel de Zanahoria,panaderia,2025-08-07,40,3.5,25,3.6,5,Dulces y Pasteles,False,,2025-07-26,20.0,55.0,medio
+PRD015,Pan de Caja Blanco 700g,panaderia,2025-08-04,100,2.2,80,11.4,2,Panadería La Dulcería,True,2.0,2025-07-31,22.0,50.0,bajo
+PRD016,Agua Mineral 1.5L,bebidas,2025-09-10,220,1.0,190,27.1,39,Agua Pura,False,,2025-07-30,4.0,60.0,bajo
+PRD017,Mantequilla 250g,lacteos,2025-08-14,75,2.8,60,8.6,12,Lácteos San Miguel,False,,2025-07-29,4.0,60.0,bajo
+PRD018,Cerveza Artesanal Pack 6,bebidas,2025-09-15,140,8.0,90,12.9,43,Cervezas del Mundo,False,,2025-07-30,4.0,65.0,bajo
+PRD019,Jamon Serrano 100g,carnes,2025-08-11,55,4.5,20,2.9,9,Cárnicas del Norte,False,,2025-07-27,2.0,55.0,alto
+PRD020,Refresco Cola Light 2L,bebidas,2025-09-03,210,1.9,160,22.9,32,Refrescos y Mas,False,,2025-07-30,4.0,60.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-15,120,1.2,50,7.1,13,Frutas del Valle,False,,2025-07-31,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-10,85,1.5,60,8.6,8,Lácteos del Norte,True,1.2,2025-07-31,4.0,70.0,medio
+PRD003,Bananas,frutas,2025-08-05,200,0.8,120,17.1,3,Bananas del Ecuador,False,,2025-07-29,12.0,88.0,bajo
+PRD004,Carne de Res Molida 500g,carnes,2025-08-12,50,5.5,30,4.3,10,Cárnicas del Sur,False,,2025-07-30,0.0,65.0,alto
+PRD005,Yogur Natural 150g,lacteos,2025-08-25,150,0.9,80,11.4,23,Dairy Co.,True,0.75,2025-07-31,4.0,75.0,medio
+PRD006,Pan de Caja 600g,panaderia,2025-08-04,180,2.0,70,10.0,2,Panadería La Moderna,False,,2025-07-29,22.0,55.0,bajo
+PRD007,Jugo de Naranja 1L,bebidas,2025-08-21,60,2.5,55,7.9,19,Frutas & Jugos,False,,2025-07-30,5.0,82.0,bajo
+PRD008,Queso Cheddar 200g,lacteos,2025-08-20,90,3.5,65,9.3,18,Quesos del Valle,False,,2025-07-31,8.0,65.0,medio
+PRD009,Fresas 250g,frutas,2025-08-07,100,2.8,40,5.7,5,Frescas del Campo,True,2.5,2025-07-30,2.0,90.0,alto
+PRD010,Agua Mineral 500ml,bebidas,2025-08-19,300,0.5,200,28.6,17,Mineral Pure,False,,2025-07-31,10.0,75.0,bajo
+PRD011,Cerveza Lager 330ml,bebidas,2025-09-02,250,1.8,150,21.4,31,Cervecería Central,False,,2025-07-29,8.0,60.0,bajo
+PRD012,Pollo Fresco 1kg,carnes,2025-08-09,40,8.0,20,2.9,7,Carnes del Sol,False,,2025-07-30,0.0,70.0,alto
+PRD013,Verduras Mixtas 1kg,verduras,2025-08-06,180,3.0,90,12.9,4,Verduras Eco,False,,2025-07-31,7.0,80.0,medio
+PRD014,Pan Pita 400g,panaderia,2025-08-03,130,1.8,45,6.4,1,Panaderos Unidos,False,,2025-07-30,22.0,55.0,bajo
+PRD015,Refresco Cola 2L,bebidas,2025-08-28,220,2.0,170,24.3,26,Bebidas del Mundo,True,1.7,2025-07-31,8.0,85.0,bajo
+P001,Manzanas Gala,frutas,2025-08-15,120,1.2,45,6.4,13,FreshFruits Co.,False,,2025-07-30,4.0,85.0,bajo
+P002,Leche Entera,lacteos,2025-08-10,80,0.9,60,8.6,8,DairyBest Ltd.,True,0.75,2025-07-31,4.0,80.0,medio
+P003,Bananas,frutas,2025-08-20,200,0.5,90,12.9,18,TropicalFruit Inc.,False,,2025-07-28,13.0,70.0,bajo
+P004,Carne de Res,carnes,2025-08-09,50,10.5,25,3.6,7,MeatMasters,False,,2025-07-29,2.0,65.0,alto
+P005,Pan Artesano,panaderia,2025-08-05,150,2.0,120,17.1,3,Baker's Delight,True,1.5,2025-07-31,20.0,75.0,bajo
+P006,Agua Mineral 500ml,bebidas,2025-09-01,300,0.8,200,28.6,30,AquaPure Ltd.,False,,2025-07-27,8.0,85.0,bajo
+P007,Queso Cheddar,lacteos,2025-08-12,60,3.5,15,2.1,10,CheeseWorld,False,,2025-07-25,4.0,80.0,medio
+P008,Yogurt Natural,lacteos,2025-08-16,100,0.6,55,7.9,14,DairyFresh Inc.,True,0.5,2025-07-30,4.0,85.0,bajo
+P009,Pechuga de Pollo,carnes,2025-08-14,70,4.8,40,5.7,12,ChickenPro,False,,2025-07-29,2.0,60.0,alto
+P010,Refresco Cola 330ml,bebidas,2025-08-25,180,1.0,130,18.6,23,FizzBeverages,False,,2025-07-26,10.0,85.0,bajo
+P011,Naranja Valencias,frutas,2025-08-19,170,0.8,80,11.4,17,CitrusWorld,False,,2025-07-24,13.0,70.0,bajo
+P012,Verduras Mixtas,verduras,2025-08-07,90,2.5,30,4.3,5,VeggieSupply Co.,False,,2025-07-25,5.0,80.0,medio
+P013,Leche de Cabra,lacteos,2025-08-13,40,2.7,10,1.4,11,GoatDairy,False,,2025-07-26,4.0,85.0,medio
+P014,Jugo de Naranja Natural,bebidas,2025-08-23,110,1.5,75,10.7,21,CitrusWorld,False,,2025-07-27,8.0,80.0,bajo
+P015,Chocolate en Barra,panaderia,2025-08-14,65,2.3,35,5.0,12,SweetTreats Ltd.,True,1.8,2025-07-30,20.0,60.0,bajo
+P016,Refresco de Naranja 330ml,bebidas,2025-08-18,160,1.2,125,17.9,16,FizzBeverages,False,,2025-07-25,10.0,85.0,bajo
+P017,Yogurt de Coco,lacteos,2025-08-17,85,0.7,50,7.1,15,DairyTreats,False,,2025-07-30,4.0,85.0,bajo
+P018,Mango,frutas,2025-08-14,130,1.5,60,8.6,12,TropicalFruit Inc.,False,,2025-07-28,13.0,70.0,bajo
+P019,Vino Tinto,bebidas,2026-02-01,40,15.0,5,0.7,181,WineCellars,False,,2025-07-25,12.0,75.0,alto
+P020,Pan Integral,panaderia,2025-08-10,100,2.5,100,14.3,8,Baker's Delight,False,,2025-07-30,20.0,75.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-31,120,1.2,85,12.1,29,AgroFrutas Ltda.,False,,2025-08-01,4.0,85.0,bajo
+PRD002,Leche Entera,lacteos,2025-08-15,85,0.9,60,8.7,13,Lácteos del Valle,True,0.8,2025-08-01,4.0,75.0,medio
+PRD003,Pechuga de Pollo,carnes,2025-08-10,50,5.5,40,5.7,8,Carnes y más,False,,2025-07-31,2.0,60.0,alto
+PRD004,Pan Baguette,panaderia,2025-08-09,200,0.8,150,20.2,7,Panadería La Tradicional,True,0.7,2025-08-01,10.0,80.0,bajo
+PRD005,Naranja Valenciana,frutas,2025-08-29,90,1.0,70,10.0,27,Frutas del Sol,False,,2025-08-02,5.0,90.0,bajo
+PRD006,Yogurt Natural,lacteos,2025-08-12,70,0.6,55,7.9,10,Lácteos del Valle,False,,2025-07-30,4.0,70.0,medio
+PRD007,Carne de Res Molida,carnes,2025-08-08,35,8.5,20,2.9,6,Carne Selecta,False,,2025-07-31,0.0,55.0,alto
+PRD008,Jugo de Naranja,bebidas,2025-08-20,150,2.0,100,14.3,18,Bebidas Refrescantes S.A.,False,,2025-08-01,8.0,70.0,bajo
+PRD009,Manzanas Verde,frutas,2025-08-25,110,1.3,75,10.7,23,Frutas del Sol,True,1.1,2025-08-02,4.0,85.0,bajo
+PRD010,Leche Descremada,lacteos,2025-08-14,95,0.85,65,9.3,12,Lácteos del Valle,False,,2025-07-31,4.0,75.0,medio
+PRD011,Jamón Cocido,carnes,2025-08-18,60,4.2,45,6.4,16,Carnes y más,False,,2025-07-30,2.0,65.0,alto
+PRD012,Cerveza Lager,bebidas,2025-09-02,180,1.5,130,18.6,31,Cervezas y Más,False,,2025-08-02,6.0,65.0,bajo
+PRD013,Zanahorias,verduras,2025-08-27,80,0.7,55,8.1,25,Verduras Frescas,False,,2025-08-01,4.0,85.0,bajo
+PRD014,Cereal de Maíz,panaderia,2025-08-20,130,2.5,90,12.9,18,Panadería La Tradicional,False,,2025-07-29,12.0,80.0,bajo
+PRD015,Agua Mineral 1.5L,bebidas,2025-09-01,210,0.5,160,22.9,30,Bebidas Refrescantes S.A.,False,,2025-08-02,7.0,60.0,bajo
+PRD016,Fresas,frutas,2025-08-24,95,2.5,85,12.1,22,Frescuras del Sur,True,2.2,2025-08-01,4.0,90.0,bajo
+PRD017,Plátanos,frutas,2025-08-26,105,1.1,78,11.2,24,Banana Export,False,,2025-07-31,4.0,85.0,bajo
+PRD018,Cerveza Artesanal,bebidas,2025-08-25,50,3.0,30,4.3,23,Cerveza Artesanal Ltda.,False,,2025-07-30,6.0,65.0,bajo
+PRD019,Queso Gouda,lacteos,2025-08-19,40,4.5,25,3.6,17,Quesos Finos,False,,2025-07-29,4.0,70.0,medio
+PRD001,Manzanas Golden,frutas,2025-08-30,120,1.2,35,5.0,28,Frutas del Valle,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-20,80,0.9,50,7.1,18,Lácteos La Vida,True,0.75,2025-07-31,4.0,80.0,medio
+PRD003,Yogur Natural 150g,lacteos,2025-08-25,150,0.5,60,8.5,23,Yogurt Plus,False,,2025-07-31,4.0,83.0,bajo
+PRD004,Pechuga de Pollo,carnes,2025-08-07,50,5.5,20,2.8,5,Carnes del Norte,False,,2025-07-30,2.0,70.0,alto
+PRD005,Pan Integral 500g,panaderia,2025-08-10,200,2.3,75,10.7,8,Panaderia Central,False,,2025-07-31,22.0,60.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-28,90,1.5,40,5.7,26,Bebidas del Sol,True,1.2,2025-07-30,5.0,90.0,medio
+PRD007,Sopa Instantánea 60g,panaderia,2025-08-25,120,0.8,55,7.8,23,Rápido Comida,False,,2025-07-31,20.0,55.0,bajo
+PRD008,Bebida Cola 2L,bebidas,2025-09-05,70,1.7,30,4.3,34,Refrescos Global,False,,2025-07-30,8.0,75.0,medio
+PRD009,Manzanas Fuji,frutas,2025-08-29,100,1.5,45,6.4,27,Frutas del Valle,False,,2025-07-31,4.0,88.0,bajo
+PRD010,Bananos,frutas,2025-08-23,130,0.9,38,5.4,21,Banana Supremo,False,,2025-07-30,13.0,90.0,bajo
+PRD011,Zanahorias,verduras,2025-08-20,180,0.7,70,10.0,18,Verduras del Sur,False,,2025-07-31,5.0,80.0,bajo
+PRD012,Pechuga de Pavo,carnes,2025-08-15,60,6.8,15,2.1,13,Aves y Carnes,False,,2025-07-30,2.0,65.0,alto
+PRD013,Jugos Tropicales 1L,bebidas,2025-09-01,100,2.0,35,5.0,30,Tropical Drinks,True,1.75,2025-07-30,5.0,85.0,medio
+PRD014,Queso Manchego 200g,lacteos,2025-09-05,40,4.8,10,1.4,34,Quesos del Sur,False,,2025-07-30,4.0,85.0,alto
+PRD015,Chocolate Suizo 100g,panaderia,2025-08-25,90,3.0,25,3.6,23,Dulces del Valle,False,,2025-07-31,20.0,50.0,bajo
+PRD016,Refresco Cola 330ml,bebidas,2025-08-20,110,0.8,65,9.3,18,Refrescos Global,False,,2025-07-30,8.0,78.0,medio
+PRD017,Fresas 250g,frutas,2025-08-22,70,2.5,42,6.0,20,Frescas del Norte,False,,2025-07-31,4.0,87.0,bajo
+PRD018,Agua Mineral 1.5L,bebidas,2025-09-03,95,1.1,55,7.9,32,Minerales del Sur,True,0.95,2025-07-31,10.0,65.0,medio
+PRD019,Queso Crema 250g,lacteos,2025-09-02,65,3.5,20,2.8,31,Quesos del Sur,False,,2025-07-30,4.0,80.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-31,150,1.2,80,11.4,29,FreshFruits Ltd.,False,,2025-07-31,4.0,80.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,200,0.9,150,21.4,13,DairyBest Co.,True,0.8,2025-07-31,4.0,75.0,bajo
+PRD003,Tomates Rosa,verduras,2025-08-22,80,0.75,60,8.6,20,VeggieFresh Inc.,False,,2025-07-30,8.0,85.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-08,50,4.5,45,6.4,6,Carnes del Sur,False,,2025-07-30,2.0,70.0,alto
+PRD005,Pan Integral,panaderia,2025-08-10,120,2.0,90,12.9,8,Baker's Co.,True,1.8,2025-07-31,22.0,60.0,bajo
+PRD006,Coca-Cola 500ml,bebidas,2025-09-10,300,1.0,200,28.6,39,Beverage Inc.,False,,2025-07-29,10.0,65.0,bajo
+PRD007,Yogurt Natural 150g,lacteos,2025-08-20,180,0.6,140,20.0,18,DairyBest Co.,False,,2025-07-30,4.0,78.0,bajo
+PRD008,Bananas Oro,frutas,2025-08-25,100,1.1,70,10.0,23,Tropical Fruits Ltd.,False,,2025-07-31,13.0,88.0,bajo
+PRD009,Carne de Res Magra,carnes,2025-08-05,60,9.5,55,7.9,3,ResSupreme Ltd.,False,,2025-07-30,1.0,65.0,alto
+PRD010,Jugo de Naranja 1L,bebidas,2025-09-15,250,2.5,160,22.9,44,Citrus Corp.,False,,2025-07-29,8.0,70.0,bajo
+PRD011,Pan de Centeno,panaderia,2025-08-09,90,2.5,85,12.1,7,Baker's Co.,False,,2025-07-30,22.0,60.0,bajo
+PRD012,Queso Gouda 200g,lacteos,2025-08-18,75,3.0,65,9.3,16,CheeseMasters,False,,2025-07-30,4.0,77.0,bajo
+PRD013,Agua Mineral 1.5L,bebidas,2025-09-25,220,1.2,190,27.1,54,AquaPure Ltd.,False,,2025-07-29,10.0,72.0,bajo
+PRD014,Chorizo Ibérico,carnes,2025-08-07,40,12.0,30,4.3,5,Iberico Foods,True,11.0,2025-07-30,2.0,65.0,alto
+PRD015,Galletas Integrales,panaderia,2025-08-20,130,3.5,100,14.3,18,SnackTime Ltd.,False,,2025-07-29,22.0,55.0,bajo
+PRD016,Refresco de Manzana 330ml,bebidas,2025-09-05,210,1.3,180,25.7,34,Beverage Inc.,False,,2025-07-28,10.0,65.0,bajo
+PRD017,Mantequilla 250g,lacteos,2025-08-17,90,2.8,65,9.3,15,DairyBest Co.,False,,2025-07-30,4.0,75.0,bajo
+PRD018,Peras Conferencia,frutas,2025-08-29,70,1.5,55,7.9,27,FruitKing Ltd.,False,,2025-07-31,4.0,80.0,bajo
+PRD019,Agua con Gas 500ml,bebidas,2025-09-05,160,1.4,135,19.3,34,Sparkle Beverages,False,,2025-07-30,10.0,70.0,bajo
+PRD020,Pan de Viena,panaderia,2025-08-14,100,2.2,95,13.6,12,Baker's Co.,False,,2025-07-30,22.0,60.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-28,120,1.2,45,6.4,26,Fruity Farms,False,,2025-07-31,4.0,85.0,medio
+PRD002,Leche Entera 1L,lacteos,2025-08-12,80,0.95,35,5.0,10,DairyPure,True,0.85,2025-07-31,4.0,70.0,bajo
+PRD003,Brócoli Fresco,verduras,2025-08-10,60,2.5,12,1.7,8,Green Valley,False,,2025-07-30,2.0,90.0,alto
+PRD004,Carne de Res 500g,carnes,2025-08-05,40,8.0,8,1.2,3,Carnes del Sur,False,,2025-07-31,0.0,75.0,alto
+PRD005,Pan Integral 500g,panaderia,2025-08-20,150,3.5,65,9.3,18,Panadería Central,True,3.0,2025-07-31,20.0,60.0,bajo
+PRD006,Agua Mineral 1.5L,bebidas,2025-09-10,300,0.65,120,17.1,39,AquaPure,False,,2025-07-30,10.0,50.0,bajo
+PRD007,Yogur Natural 150g,lacteos,2025-08-15,90,1.0,50,7.1,13,DairyPure,False,,2025-07-31,4.0,80.0,bajo
+PRD008,Tomates Cherry 250g,verduras,2025-08-09,70,2.0,20,2.9,7,Fresh Harvest,False,,2025-07-29,2.0,85.0,alto
+PRD009,Jugo de Naranja 1L,bebidas,2025-08-27,200,2.2,55,7.9,25,CitrusCo,True,2.0,2025-07-30,8.0,70.0,bajo
+PRD010,Queso Manchego 200g,lacteos,2025-08-19,50,4.5,10,1.4,17,Quesos del Campo,False,,2025-07-31,4.0,85.0,bajo
+PRD011,Cerveza Artesanal 330ml,bebidas,2025-09-05,100,3.0,40,5.7,34,BrewMasters,False,,2025-07-31,4.0,60.0,medio
+PRD012,Zanahorias 1kg,verduras,2025-08-22,130,1.1,30,4.3,20,Green Valley,False,,2025-07-31,2.0,88.0,alto
+PRD013,Pan Fino 300g,panaderia,2025-08-17,110,4.0,60,8.6,15,Panadería delicias,False,,2025-07-31,20.0,55.0,bajo
+PRD014,Jamon Serrano 100g,carnes,2025-08-05,25,6.0,5,0.7,3,Embargos Serranos,False,,2025-07-31,0.0,70.0,alto
+PRD015,Refresco Cola 2L,bebidas,2025-09-02,250,1.5,100,14.3,31,Bevera Inc.,True,1.3,2025-07-31,8.0,65.0,bajo
+PRD016,Naranja Navel 1kg,frutas,2025-08-24,140,1.3,38,5.4,22,CitrusCo,False,,2025-07-30,4.0,85.0,medio
+PRD017,Baguette Francés 250g,panaderia,2025-08-16,90,2.8,55,7.9,14,Panadería Central,False,,2025-07-31,20.0,55.0,bajo
+PRD018,Cerveza Radler 330ml,bebidas,2025-08-25,80,3.2,22,3.2,23,BrewMasters,False,,2025-07-29,4.0,60.0,medio
+PRD019,Plátanos Madurados 1kg,frutas,2025-08-23,110,1.4,42,6.0,21,Tropical Fruits,False,,2025-07-31,4.0,85.0,medio
+PRD001,Manzanas Fuji,frutas,2025-08-31,120,2.5,70,10.0,29,Frutas del Valle,True,2.0,2025-07-28,4.0,75.0,medio
+PRD002,Leche Entera 1L,lacteos,2025-08-20,85,1.2,55,7.9,18,Lácteos La Colina,False,,2025-07-30,4.0,80.0,alto
+PRD003,Jamon Cocido 200g,carnes,2025-08-07,60,3.5,30,4.3,5,Carnes Selectas,False,,2025-07-25,2.0,65.0,alto
+PRD004,Pan Integral 500g,panaderia,2025-08-12,150,1.0,90,12.9,10,Panaderia La Espiga,True,0.9,2025-07-31,22.0,55.0,bajo
+PRD005,Refresco Cola 330ml,bebidas,2025-09-15,200,0.75,150,21.4,43,Bebidas del Mundo,False,,2025-07-29,10.0,70.0,bajo
+PRD006,Queso Gouda 250g,lacteos,2025-08-19,40,4.5,20,2.9,17,Quesos y Más,False,,2025-07-27,5.0,85.0,medio
+PRD007,Fresas 250g,frutas,2025-08-05,90,3.0,80,11.4,3,Fresas Naturales,True,2.5,2025-07-31,4.0,78.0,medio
+PRD008,Carne de Res 1kg,carnes,2025-08-10,50,12.0,25,3.6,8,Carnes Premium,False,,2025-07-30,1.0,60.0,alto
+PRD009,Yogurt Natural 125g,lacteos,2025-08-18,130,0.9,65,9.3,16,Lácteos Naturales,False,,2025-07-28,4.0,80.0,alto
+PRD010,Agua Mineral 500ml,bebidas,2025-09-25,300,0.4,200,28.6,54,Agua Pura,False,,2025-07-31,8.0,65.0,bajo
+PRD011,Pan Blanco 1kg,panaderia,2025-08-14,180,1.2,100,14.3,12,Panadería La Cosecha,False,,2025-07-30,22.0,55.0,bajo
+PRD012,Zumo Naranja 1L,bebidas,2025-08-22,220,1.5,135,19.3,20,Zumos & Frutas,False,,2025-07-29,8.0,70.0,bajo
+PRD013,Galletas Integrales 200g,panaderia,2025-08-17,75,2.0,40,5.7,15,Galletas y Más,False,,2025-07-28,22.0,55.0,bajo
+PRD014,Manzanas Gala,frutas,2025-08-25,110,2.8,65,9.3,23,Frutas del Valle,False,,2025-07-30,4.0,75.0,medio
+PRD015,Agua Mineral 1L,bebidas,2025-09-10,290,1.4,170,24.3,39,Agua Pura,False,,2025-07-29,8.0,65.0,bajo
+PRD016,Fresas 250g,frutas,2025-08-04,80,3.2,75,10.7,2,Fresas Naturales,True,2.7,2025-07-31,4.0,78.0,medio
+PRD017,Carne de Pollo 1kg,carnes,2025-08-09,45,8.0,20,2.9,7,Aves del Sur,False,,2025-07-30,1.0,60.0,alto
+PRD018,Yogurt de Frambuesa 125g,lacteos,2025-08-16,125,1.0,60,8.6,14,Lácteos del Sur,False,,2025-07-27,4.0,80.0,alto
+PRD019,Refresco Naranja 330ml,bebidas,2025-09-10,180,0.75,140,20.0,39,Bebidas del Mundo,False,,2025-07-30,8.0,70.0,bajo
+PRD020,Pan de Viena 500g,panaderia,2025-08-13,160,1.3,85,12.1,11,Panadería La Cosecha,False,,2025-07-30,22.0,55.0,bajo
+PRD001,Manzanas Golden,frutas,2025-08-31,120,1.2,85,12.1,29,AgroFruits Ltd.,False,,2025-07-30,4.0,65.0,medio
+PRD002,Leche Entera 1L,lacteos,2025-08-15,200,0.9,150,21.4,13,DairyBest Co.,True,0.75,2025-07-31,4.0,75.0,bajo
+PRD003,Bananas Ripen,frutas,2025-08-08,80,0.5,95,13.6,6,Tropical Fruits Inc.,False,,2025-07-31,13.0,80.0,alto
+PRD004,Carne de Res Picada,carnes,2025-08-10,50,7.8,30,4.3,8,Meat Suppliers Co.,False,,2025-07-28,1.0,55.0,alto
+PRD005,Pan Baguette,panaderia,2025-08-02,180,0.8,180,25.7,0,Bakery Fresh,False,,2025-07-29,12.0,70.0,medio
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-25,150,2.5,100,14.3,23,OrangeJuice Co.,True,2.0,2025-07-30,4.0,85.0,bajo
+PRD007,Yogurt Griego 500g,lacteos,2025-08-12,220,2.0,130,18.6,10,DairyBest Co.,False,,2025-07-31,4.0,65.0,bajo
+PRD008,Filetes de Pollo,carnes,2025-08-09,70,5.5,45,6.4,7,Poultry Supplies Ltd.,False,,2025-07-29,2.0,60.0,alto
+PRD009,Refresco Cola 2L,bebidas,2025-08-20,90,1.5,70,10.0,18,Fizzy Drinks Inc.,True,1.2,2025-07-30,4.0,80.0,bajo
+PRD010,Queso Cheddar 200g,lacteos,2025-08-18,160,3.0,90,12.9,16,Cheese Co.,False,,2025-07-31,4.0,70.0,bajo
+PRD011,Zanahorias,verduras,2025-08-07,130,0.4,115,16.4,5,Veggie Supply Ltd.,False,,2025-07-30,8.0,85.0,alto
+PRD012,Pan de Dulce,panaderia,2025-08-02,160,1.0,170,24.3,0,Dulce Pan Bakery,False,,2025-07-29,12.0,72.0,medio
+PRD013,Agua Mineral 1.5L,bebidas,2025-08-23,140,1.2,90,12.9,21,PureWater Co.,False,,2025-07-31,4.0,90.0,bajo
+PRD014,Chocolate Bar,panaderia,2025-08-25,90,2.0,70,10.0,23,Sweet Treats Ltd.,True,1.7,2025-07-30,20.0,60.0,medio
+PRD015,Espinaca Fresca,verduras,2025-08-05,110,0.6,85,12.1,3,Veggie Supply Ltd.,False,,2025-07-29,8.0,85.0,alto
+PRD016,Cerveza Lager 330ml,bebidas,2025-09-02,140,1.8,95,13.6,32,Brews Co.,False,,2025-07-31,4.0,75.0,bajo
+PRD017,Mantequilla 250g,lacteos,2025-08-17,130,2.5,85,12.1,15,DairyBest Co.,False,,2025-07-31,4.0,70.0,bajo
+PRD018,Jamon Serrano 100g,carnes,2025-08-16,60,3.5,40,5.7,14,Spanish Meats Ltd.,False,,2025-07-29,2.0,55.0,alto
+PRD019,Refresco Cola 500ml,bebidas,2025-08-21,100,1.0,80,11.4,19,Fizzy Drinks Inc.,False,,2025-07-31,4.0,80.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-18,120,2.5,35,5.0,16,Frutas del Valle,False,,2025-07-29,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-22,80,1.2,50,7.1,20,Lácteos La Lechería,True,1.0,2025-07-30,2.0,75.0,bajo
+PRD003,Broccoli Fresco,verduras,2025-08-08,60,1.8,20,2.9,6,Verduras Orgánicas,False,,2025-07-29,4.0,80.0,medio
+PRD004,Carne de Pollo Piezas,carnes,2025-08-10,40,5.5,15,2.1,8,Carnes Del Norte,False,,2025-07-31,0.0,80.0,alto
+PRD005,Pan Integral 500g,panaderia,2025-08-05,100,2.0,60,8.6,3,Panaderia La Colmena,True,1.8,2025-07-28,22.0,55.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-20,150,3.0,70,10.0,18,Jugos del Sol,False,,2025-07-30,4.0,70.0,bajo
+PRD007,Yogur Natural 125g,lacteos,2025-08-19,90,0.8,40,5.7,17,Lácteos La Lechería,False,,2025-07-29,2.0,80.0,bajo
+PRD008,Filete de Res 1kg,carnes,2025-08-12,30,12.0,10,1.4,10,Carnes Frescas SA,False,,2025-07-31,0.0,75.0,alto
+PRD009,Agua Mineral 500ml,bebidas,2025-08-25,200,0.5,100,14.3,23,Aguas del Mundo,False,,2025-07-31,8.0,60.0,bajo
+PRD010,Queso Gouda 200g,lacteos,2025-08-21,50,3.5,25,3.6,19,Quesos Finos,False,,2025-07-30,4.0,75.0,bajo
+PRD011,Pan de Molde 700g,panaderia,2025-08-04,110,2.5,55,7.9,2,Panaderia La Buena Miga,False,,2025-07-30,22.0,55.0,bajo
+PRD012,Refresco Cola 2L,bebidas,2025-08-17,180,1.5,90,12.9,15,Bebidas Refrescantes,True,1.2,2025-07-29,8.0,65.0,bajo
+PRD013,Jamon Cocido 300g,carnes,2025-08-11,70,4.0,28,4.0,9,Carnes Premium,False,,2025-07-29,0.0,75.0,alto
+PRD014,Zumo de Piña 1L,bebidas,2025-08-23,130,3.5,65,9.3,21,Jugos Tropicales,False,,2025-07-31,4.0,70.0,bajo
+PRD015,Yogur de Frutas 150g,lacteos,2025-08-16,75,1.0,30,4.3,14,Lácteos La Lechería,False,,2025-07-29,2.0,80.0,bajo
+PRD016,Chocolate Negro 100g,panaderia,2025-08-20,45,2.8,20,2.9,18,Dulces Artesanales,False,,2025-07-30,22.0,60.0,bajo
+PRD017,Bebida Energizante 250ml,bebidas,2025-08-25,90,2.5,42,6.0,23,Energéticos Plus,True,2.0,2025-07-31,8.0,68.0,medio
+PRD018,Queso Brie 150g,lacteos,2025-08-29,35,4.5,18,2.6,27,Quesos Finos,False,,2025-07-30,4.0,74.0,bajo
+PRD019,Tierra de Pan 1kg,panaderia,2025-08-07,70,3.0,35,5.0,5,Panadería La Esquina,False,,2025-07-30,22.0,55.0,bajo
+PRD020,Coca-Cola 330ml,bebidas,2025-08-16,160,1.3,80,11.4,14,Bebidas Refrescantes,False,,2025-07-30,8.0,65.0,bajo
+PRD001,Manzana Roja,frutas,2025-08-20,150,1.2,80,11.4,18,Frutícola El Valle,False,,2025-07-30,4.0,65.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-15,200,1.1,120,17.1,13,Lácteos del Norte,True,0.99,2025-07-31,4.0,70.0,bajo
+PRD003,Bananas Organic,frutas,2025-08-10,80,0.9,60,8.6,8,Agrofrut,False,,2025-07-29,13.0,80.0,medio
+PRD004,Tomates Perita,verduras,2025-08-22,50,0.5,20,2.9,20,Verduras del Valle,False,,2025-07-31,10.0,85.0,medio
+PRD005,Queso Manchego 200g,lacteos,2025-08-18,60,3.5,35,5.0,16,Lácteos Manchegos,True,3.2,2025-07-30,4.0,60.0,bajo
+PRD006,Carne de Res Cortada,carnes,2025-08-12,40,8.5,15,2.1,10,Carnes Premium,False,,2025-07-31,0.0,75.0,alto
+PRD007,Pan Blanco,panaderia,2025-08-04,120,0.8,90,12.9,2,Panadería Central,False,,2025-07-31,15.0,80.0,bajo
+PRD008,Agua Mineral 500ml,bebidas,2025-09-01,300,0.6,170,24.3,30,Agua Clara,False,,2025-07-28,8.0,50.0,bajo
+PRD009,Refresco Cola 330ml,bebidas,2025-08-25,250,1.3,130,18.6,23,Refrescos S.A.,True,1.1,2025-07-29,4.0,65.0,bajo
+PRD010,Hígado de Pollo 1kg,carnes,2025-08-09,30,7.0,10,1.4,7,Carnes del Norte,False,,2025-07-30,2.0,60.0,alto
+PRD011,Yogur Natural 125g,lacteos,2025-08-17,180,0.9,100,14.3,15,Yogur del Valle,False,,2025-07-31,4.0,65.0,bajo
+PRD012,Cerveza Lager 355ml,bebidas,2025-09-05,220,2.0,150,21.4,34,Cervezas Artesanales,False,,2025-07-27,7.0,55.0,bajo
+PRD013,Palta Hass,verduras,2025-08-14,70,1.5,55,7.9,12,Verduras del Valle,True,1.3,2025-07-30,12.0,88.0,medio
+PRD014,Jugo de Naranja 1L,bebidas,2025-08-28,180,1.4,100,14.3,26,Frutas y Jugos,False,,2025-07-28,5.0,60.0,bajo
+PRD015,Cereza,frutas,2025-08-18,40,2.5,25,3.6,16,Frutas del Norte,False,,2025-07-29,-1.0,75.0,alto
+PRD016,Jamon Cocido 150g,lacteos,2025-08-13,70,2.8,40,5.7,11,Lácteos del Sur,False,,2025-07-31,4.0,58.0,bajo
+PRD017,Bebida Energética 250ml,bebidas,2025-09-02,90,2.2,45,6.4,31,Energizantes S.A.,False,,2025-07-30,6.0,45.0,bajo
+PRD018,Naranja Navel,frutas,2025-08-23,100,1.4,70,10.0,21,Frutas del Valle,False,,2025-07-29,8.0,60.0,bajo
+PRD019,Queso Gouda 150g,lacteos,2025-08-19,65,3.8,28,4.0,17,Quesos Finos,False,,2025-07-30,4.0,55.0,bajo
+PRD001,Manzana Fuji,frutas,2025-08-31,120,1.2,80,11.4,29,FruitCo,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera,lacteos,2025-08-15,85,0.9,45,6.4,13,DairyBest,True,0.75,2025-07-31,4.0,88.0,medio
+PRD003,Banana Organic,frutas,2025-08-25,200,0.5,150,21.4,23,TropicalFarms,False,,2025-07-29,12.0,78.0,bajo
+PRD004,Pollo Fresco,carnes,2025-08-07,50,5.5,30,4.3,5,MeatSuppliers,True,5.0,2025-07-31,0.0,65.0,alto
+PRD005,Yogurt Natural,lacteos,2025-08-12,100,1.0,70,10.0,10,DairyBest,False,,2025-07-30,4.0,90.0,medio
+PRD006,Pan Integral,panaderia,2025-08-04,70,2.0,60,8.6,2,BakeryDelights,False,,2025-07-29,22.0,70.0,bajo
+PRD007,Jugo de Naranja,bebidas,2025-08-20,150,3.5,90,12.9,18,CitrusCo,False,,2025-07-30,8.0,80.0,bajo
+PRD008,Queso Cheddar,lacteos,2025-08-10,60,4.5,25,3.6,8,CheeseMakers,True,4.0,2025-07-30,4.0,85.0,medio
+PRD009,Cerveza Artesanal,bebidas,2025-09-05,180,2.8,100,14.3,34,BrewMasters,False,,2025-07-30,10.0,75.0,bajo
+PRD010,Baguette Francesa,panaderia,2025-08-03,90,1.5,70,10.0,1,BakeryDelights,False,,2025-07-31,22.0,68.0,bajo
+PRD011,Jamon Serrano,carnes,2025-08-09,40,8.0,20,2.9,7,MeatSuppliers,True,7.0,2025-07-31,2.0,55.0,alto
+PRD012,Agua Mineral 1.5L,bebidas,2025-08-24,250,0.8,180,25.7,22,AquaPure,False,,2025-07-30,5.0,85.0,bajo
+PRD013,Refresco Cola,bebidas,2025-09-10,300,1.0,220,31.4,39,FizzyDrinks,False,,2025-07-31,4.0,70.0,bajo
+PRD014,Mantequilla Sin Sal,lacteos,2025-08-25,65,2.5,35,5.0,23,DairyBest,False,,2025-07-29,4.0,85.0,medio
+PRD015,Tocino Ahumado,carnes,2025-08-08,55,7.0,10,1.4,6,MeatSuppliers,True,6.5,2025-07-30,2.0,50.0,alto
+PRD016,Zumo de Piña,bebidas,2025-09-02,130,3.0,80,11.4,31,TropicalFarms,False,,2025-07-29,8.0,85.0,bajo
+PRD017,Helado de Vainilla,panaderia,2025-08-16,90,4.0,40,5.7,14,SweetTreats,False,,2025-07-30,-18.0,70.0,alto
+PRD018,Croissants,panaderia,2025-08-03,100,2.5,60,8.6,1,BakeMasters,False,,2025-07-31,22.0,65.0,bajo
+PRD019,Vino Tinto,bebidas,2025-12-01,40,12.0,15,2.1,122,WineCellars,True,10.0,2025-07-29,16.0,70.0,medio
+PRD001,Manzanas Golden,frutas,2025-08-31,150,1.2,80,11.4,29,Frutas del Valle,False,,2025-07-30,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-09-05,200,0.99,150,21.4,34,Lacteos La Vaquita,True,0.89,2025-07-31,4.0,60.0,bajo
+PRD003,Tomates Perita,verduras,2025-08-25,80,0.75,50,7.1,23,Verduras del Sol,False,,2025-07-29,10.0,80.0,medio
+PRD004,Filete de Pollo,carnes,2025-08-10,120,5.5,70,10.0,8,Carnes del Norte,True,4.95,2025-07-30,0.0,85.0,alto
+PRD005,Pan Baguette,panaderia,2025-08-02,250,0.45,200,28.6,0,Panadería La Esquina,False,,2025-07-31,20.0,60.0,medio
+PRD006,Jugo de Naranja 1L,bebidas,2025-09-10,180,2.0,90,12.9,39,Bebidas Frescas,True,1.8,2025-07-28,4.0,65.0,bajo
+PRD007,Yogur Natural 150g,lacteos,2025-09-15,220,0.55,130,18.6,43,Yogurt Plus,False,,2025-07-30,4.0,55.0,bajo
+PRD008,Hamburguesa de Carne,carnes,2025-08-18,90,3.75,65,9.3,16,Carnes Premium,False,,2025-07-31,0.0,80.0,alto
+PRD009,Jamon Serrano 100g,carnes,2025-08-22,50,4.5,30,4.3,20,Jamones y Embutidos,True,4.05,2025-07-27,2.0,65.0,alto
+PRD010,Cerveza Artesanal 355ml,bebidas,2025-09-25,170,2.5,110,15.7,54,Cervezas del Mundo,False,,2025-07-31,8.0,55.0,medio
+PRD011,Zanahorias orgánicas,verduras,2025-08-27,60,0.65,40,5.7,25,Verduras del Valle,False,,2025-07-29,10.0,85.0,medio
+PRD012,Queso Gouda 200g,lacteos,2025-09-12,130,2.5,85,12.1,41,Quesos Finos,False,,2025-07-30,4.0,50.0,bajo
+PRD013,Bebida Gaseosa Cola 2L,bebidas,2025-09-18,160,1.5,95,13.6,46,Refrescos y Bebidas,True,1.35,2025-07-31,8.0,60.0,bajo
+PRD014,Cereza Orgánica 250g,frutas,2025-08-20,45,3.0,25,3.6,18,Frutas del Valle,False,,2025-07-29,2.0,80.0,alto
+PRD015,Galletas Integrales 150g,panaderia,2025-09-05,300,1.1,180,25.7,34,Panadería La Esquina,False,,2025-07-31,20.0,55.0,medio
+PRD016,Agua Mineral 1.5L,bebidas,2025-09-12,210,0.85,100,14.3,41,Agua Pura,False,,2025-07-30,4.0,60.0,bajo
+PRD017,Naranja Mandarina 1kg,frutas,2025-09-08,70,1.5,40,5.7,37,Frutas del Valle,False,,2025-07-29,10.0,85.0,medio
+PRD018,Mantequilla 200g,lacteos,2025-09-15,160,2.2,95,13.6,43,Lácteos del Sur,False,,2025-07-31,4.0,50.0,bajo
+PRD019,Soda Limón 1.5L,bebidas,2025-09-28,140,1.4,70,10.0,56,Refrescos y Bebidas,False,,2025-07-30,8.0,55.0,bajo
+PRD001,Manzanas Fuji,frutas,2025-08-30,120,1.2,35,5.0,28,Frutas del Valle,False,,2025-07-30,4.0,75.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-21,80,0.9,50,7.0,19,Lácteos La Pradera,True,0.8,2025-07-31,2.0,65.0,medio
+PRD003,Espinaca Orgánica,verduras,2025-08-07,200,0.5,20,3.0,5,Verduras Naturales,False,,2025-07-29,1.0,85.0,alto
+PRD004,Pollo Orgánico Pechuga,carnes,2025-08-12,60,4.5,15,2.0,10,Carnes Orgánicas,False,,2025-07-28,0.0,70.0,alto
+PRD005,Pan Integral,panaderia,2025-08-04,150,1.0,40,6.0,2,Panadería La Esquina,False,,2025-07-31,22.0,55.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-09-01,180,2.0,60,8.0,30,Bebidas Naturales,True,1.8,2025-08-01,4.0,60.0,bajo
+PRD007,Yogurt Natural 125g,lacteos,2025-08-19,70,0.6,55,8.0,17,Lácteos La Pradera,False,,2025-07-30,4.0,65.0,medio
+PRD008,Manzanas Verde,frutas,2025-08-27,90,1.3,28,4.0,25,Frutas del Valle,False,,2025-07-29,4.0,75.0,bajo
+PRD009,Cerveza Lager 330ml,bebidas,2025-10-01,300,1.5,70,10.0,60,Bebidas y Más,False,,2025-07-31,8.0,65.0,bajo
+PRD010,Queso Cheddar 200g,lacteos,2025-08-16,50,3.2,10,1.0,14,Quesos Finos,False,,2025-07-27,4.0,60.0,medio
+PRD011,Bananas Organic,frutas,2025-08-25,100,0.9,45,6.5,23,Frutas del Valle,False,,2025-07-31,4.0,75.0,bajo
+PRD012,Refresco Cola 500ml,bebidas,2025-08-20,220,1.0,80,11.0,18,Bebidas y Más,True,0.9,2025-07-30,6.0,55.0,bajo
+PRD013,Carne de Res Picada,carnes,2025-08-10,40,9.0,12,2.0,8,Carnes Premium,False,,2025-07-30,0.0,65.0,alto
+PRD014,Pan Blanco 600g,panaderia,2025-08-03,130,1.2,35,5.0,1,Panadería La Esquina,False,,2025-07-31,22.0,55.0,bajo
+PRD015,Naranja Valencia 1kg,frutas,2025-08-26,95,1.1,25,3.5,24,Frutas del Valle,False,,2025-07-30,4.0,75.0,bajo
+PRD016,Agua Mineral 1.5L,bebidas,2025-09-05,250,1.5,90,12.0,34,Agua Pura,False,,2025-07-31,6.0,50.0,bajo
+PRD017,Queso Parmesano 150g,lacteos,2025-08-18,55,4.8,8,1.2,16,Quesos Finos,False,,2025-07-30,4.0,60.0,medio
+PRD018,Fresas 250g,frutas,2025-08-22,70,2.5,25,3.5,20,Fresas del Valle,True,2.2,2025-07-31,4.0,75.0,bajo
+PRD019,Coca Cola 330ml,bebidas,2025-08-25,190,1.2,75,10.0,23,Bebidas y Más,False,,2025-07-29,6.0,55.0,bajo
+PRD020,Jamón Cocido 200g,carnes,2025-08-15,90,3.5,20,3.0,13,Carnes y Embutidos,False,,2025-07-30,0.0,65.0,alto
+PRD001,Manzana Fuji,frutas,2025-08-28,150,1.2,70,10.0,26,Frutas del Valle,False,,2025-07-30,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-22,80,1.0,50,7.0,20,Lácteos la Granja,True,0.9,2025-07-31,4.0,70.0,bajo
+PRD003,Brocoli Orgánico,verduras,2025-08-07,60,2.5,30,4.3,5,Verduras Veritas,False,,2025-07-31,2.0,80.0,medio
+PRD004,Pechuga de Pollo,carnes,2025-08-15,40,5.0,20,2.9,13,Carnes Elite,False,,2025-07-29,0.0,65.0,alto
+PRD005,Pan integral 500g,panaderia,2025-08-05,100,2.0,80,11.4,3,Panadería La Esquina,True,1.8,2025-07-31,22.0,55.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-20,200,3.0,150,21.4,18,Bebidas del Sol,False,,2025-07-31,8.0,90.0,bajo
+PRD007,Yogurt Natural 150g,lacteos,2025-08-19,90,0.8,60,8.6,17,Dairy Fresh,False,,2025-07-30,4.0,70.0,bajo
+PRD008,Filete de Res 500g,carnes,2025-08-13,30,12.0,10,1.4,11,Carnes Premium,False,,2025-07-28,0.0,60.0,alto
+PRD009,Pan de Viena 6 unidades,panaderia,2025-08-04,50,3.5,65,9.3,2,Panadería La Moderna,False,,2025-07-31,22.0,50.0,bajo
+PRD010,Agua Mineral 1.5L,bebidas,2025-08-27,180,0.5,120,17.1,25,Aguas Pura Vida,False,,2025-07-29,10.0,70.0,bajo
+PRD011,Cerveza Artesanal 330ml,bebidas,2025-08-25,220,2.8,110,15.7,23,Cervezas Artesanales,False,,2025-07-30,6.0,80.0,medio
+PRD012,Queso Gouda 200g,lacteos,2025-08-16,70,4.5,40,5.7,14,Quesos Finos,False,,2025-07-29,4.0,75.0,bajo
+PRD013,Naranjas Mandarina 1kg,frutas,2025-08-23,130,1.5,85,12.1,21,Frutas del Valle,False,,2025-07-30,4.0,85.0,bajo
+PRD014,Mermelada de Fresa 250g,panaderia,2025-08-26,40,3.0,25,3.6,24,Dulces y Mermeladas,False,,2025-07-30,22.0,55.0,bajo
+PRD015,Plátanos Bananas 1kg,frutas,2025-08-20,160,1.3,90,12.9,18,Verduras Veritas,True,1.2,2025-07-31,4.0,85.0,bajo
+PRD016,Refresco Cola 2L,bebidas,2025-09-05,140,2.0,80,11.4,34,Refrescos Mundo,False,,2025-07-30,8.0,90.0,bajo
+PRD017,Yogurt de Coco 150g,lacteos,2025-08-18,75,1.0,55,7.9,16,Dairy Plus,False,,2025-07-29,4.0,70.0,bajo
+PRD018,Hamburguesas de Res 250g,carnes,2025-08-14,35,6.0,15,2.1,12,Carnes Premium,False,,2025-07-28,0.0,60.0,alto
+PRD019,Pan pita 6 unidades,panaderia,2025-08-04,45,2.5,55,7.9,2,Panadería La Moderna,False,,2025-07-31,22.0,50.0,bajo
+PROD001,Manzanas Rojo,frutas,2025-08-15,120,1.2,50,7.1,13,Frutas del Valle,False,,2025-07-30,4.0,75.0,medio
+PROD002,Leche Entera 1L,lacteos,2025-08-10,80,0.95,70,10.0,8,Lácteos ABC,True,0.85,2025-07-31,4.0,85.0,bajo
+PROD003,Bananas Organic,frutas,2025-08-12,150,0.8,60,8.5,10,Tropical Fruits,False,,2025-07-29,5.0,80.0,medio
+PROD004,Pechuga de Pollo,carnes,2025-08-05,40,4.5,30,4.3,3,Carne Viva,False,,2025-07-31,0.0,90.0,alto
+PROD005,Queso Gouda 200g,lacteos,2025-08-20,60,2.3,45,6.4,18,Lácteos ABC,True,2.0,2025-07-30,4.0,88.0,bajo
+PROD006,Jugo de Naranja 1L,bebidas,2025-08-18,100,1.1,55,7.8,16,Bebidas del Sol,False,,2025-07-29,8.0,70.0,bajo
+PROD007,Pan Integral 500g,panaderia,2025-08-04,90,2.5,85,12.1,2,Panadería Central,False,,2025-07-30,22.0,55.0,alto
+PROD008,Yogurt Griego 150g,lacteos,2025-08-16,70,1.5,40,5.7,14,Lácteos ABC,True,1.3,2025-07-31,4.0,86.0,bajo
+PROD009,Agua Mineral 1.5L,bebidas,2025-09-01,200,0.5,150,21.4,30,Aguas Puras,False,,2025-07-28,10.0,50.0,bajo
+PROD010,Carne de Res Molida,carnes,2025-08-07,35,6.0,25,3.6,5,Carnes Premium,False,,2025-07-31,2.0,88.0,alto
+PROD011,Pasta Espagueti 500g,panaderia,2025-08-21,110,1.4,65,9.3,19,Deli Pasta,False,,2025-07-29,22.0,60.0,alto
+PROD012,Refresco Cola 330ml,bebidas,2025-08-13,180,0.8,90,12.9,11,Bebidas del Sol,False,,2025-07-27,8.0,65.0,bajo
+PROD013,Cerveza Artesanal 500ml,bebidas,2025-09-10,60,3.0,20,2.9,39,Cervecería Artesanal,False,,2025-07-26,12.0,55.0,medio
+PROD014,Pan Dulce con Chocolate,panaderia,2025-08-03,50,2.8,50,7.1,1,Dulces del Cielo,False,,2025-07-31,20.0,70.0,alto
+PROD015,Jamon Cocido 200g,carnes,2025-08-08,45,3.5,22,3.1,6,Carnes Premium,True,3.0,2025-07-30,1.0,89.0,alto
+PROD016,Refresco Naranja 330ml,bebidas,2025-08-19,170,0.9,85,12.1,17,Bebidas del Sol,False,,2025-07-28,8.0,66.0,bajo
+PROD017,Mantequilla 250g,lacteos,2025-08-17,55,2.8,38,5.4,15,Lácteos ABC,False,,2025-07-29,4.0,87.0,bajo
+PROD018,Carne de Cerdo 1kg,carnes,2025-08-09,25,7.0,15,2.1,7,Carnes del Sur,False,,2025-07-30,2.0,89.0,alto
+PROD019,Chocolate oscuro 100g,panaderia,2025-08-25,70,1.8,40,5.7,23,Dulces del Cielo,False,,2025-07-31,20.0,65.0,alto
+PROD020,Agua con Gas 600ml,bebidas,2025-08-22,160,0.85,85,12.1,20,Aguas Puras,False,,2025-07-28,8.0,60.0,bajo
+P1001,Manzanas Fuji,frutas,2025-08-20,120,1.2,80,11.4,18,AgroFruit Co.,False,,2025-07-30,4.0,70.0,bajo
+P1002,Leche Entera,lacteos,2025-08-15,200,0.85,150,21.4,13,DairyBest Ltd.,True,0.75,2025-07-31,4.0,85.0,medio
+P1003,Broccoli Orgánico,verduras,2025-08-12,75,2.5,30,4.3,10,Green Farms,False,,2025-07-29,1.0,75.0,alto
+P1004,Filete de Pollo,carnes,2025-08-10,50,5.75,45,6.4,8,Carnes Premium,True,5.25,2025-07-31,0.0,60.0,alto
+P1005,Pan Integral,panaderia,2025-08-25,180,1.0,170,24.3,23,BakeWorld,False,,2025-07-30,22.0,50.0,bajo
+P1006,Jugo de Naranja,bebidas,2025-08-18,90,2.0,60,8.6,16,OrangeWorld,False,,2025-07-28,8.0,80.0,medio
+P1007,Yogurt Natural,lacteos,2025-08-14,150,0.65,130,18.6,12,YogurtCo,True,0.55,2025-07-30,4.0,78.0,medio
+P1008,Carne Molida Res,carnes,2025-08-09,40,7.8,55,7.9,7,Carnes Premium,False,,2025-07-30,1.0,55.0,alto
+P1009,Agua Mineral 1.5L,bebidas,2025-09-01,250,0.9,220,31.4,30,PureWater Inc.,False,,2025-07-31,10.0,65.0,bajo
+P1010,Plátanos Maduro,frutas,2025-08-07,100,1.05,90,12.9,5,Tropical Fruits,True,0.95,2025-07-31,4.0,72.0,bajo
+P1011,Queso Cheddar,lacteos,2025-08-16,80,3.5,70,10.0,14,CheeseWorld,False,,2025-07-30,4.0,80.0,medio
+P1012,Naranja Valencia,frutas,2025-08-19,130,1.25,95,13.6,17,Citrus Ltd.,False,,2025-07-29,4.0,75.0,bajo
+P1013,Pan Blanco,panaderia,2025-08-24,160,1.1,155,22.1,22,BakeWorld,False,,2025-07-30,22.0,55.0,bajo
+P1014,Refresco Cola 330ml,bebidas,2025-09-01,300,1.5,270,38.6,30,Fanta Inc.,True,1.3,2025-07-30,8.0,85.0,medio
+P1015,Yogurt de Frambuesa,lacteos,2025-08-13,90,0.7,75,10.7,11,YogurtCo,False,,2025-07-30,4.0,78.0,medio
+P1016,Fresas,frutas,2025-08-11,60,2.8,55,7.9,9,Fruity Co.,False,,2025-07-29,4.0,70.0,bajo
+P1017,Carne de Cerdo,carnes,2025-08-08,35,8.5,40,5.7,6,Cortes del Sur,False,,2025-07-30,0.0,58.0,alto
+P1018,Agua de Sabor Mango,bebidas,2025-08-25,110,1.8,85,12.1,23,SaborMango Ltd.,False,,2025-07-29,10.0,70.0,bajo
+P1019,Queso Mozzarella,lacteos,2025-08-17,70,3.2,65,9.3,15,CheeseWorld,False,,2025-07-30,4.0,80.0,medio
+PRD001,Manzana Fuji,frutas,2025-08-28,150,1.2,50,7.1,26,Frutos del Valle,False,,2025-07-28,4.0,70.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-17,80,0.85,60,8.6,15,Lácteos del Sur,True,0.75,2025-07-31,4.0,85.0,medio
+PRD003,Banana Organic,frutas,2025-08-10,200,0.9,70,10.0,8,Banana Mundo,False,,2025-07-30,13.0,78.0,bajo
+PRD004,Pechuga de Pollo,carnes,2025-08-07,60,5.5,35,5.0,5,Aves y Cárnicos,False,,2025-07-29,2.0,55.0,alto
+PRD005,Queso Gouda,lacteos,2025-08-25,40,3.5,20,3.0,23,Quesos del Valle,True,3.0,2025-07-31,4.0,60.0,medio
+PRD006,Pan Integral,panaderia,2025-08-09,120,1.0,90,12.9,7,Panadería Central,False,,2025-07-28,20.0,65.0,bajo
+PRD007,Refresco Cola 2L,bebidas,2025-08-24,180,2.5,120,17.1,22,Bebidas Global,False,,2025-07-29,10.0,50.0,bajo
+PRD008,Yogur Natural 125g,lacteos,2025-08-12,100,0.6,55,7.8,10,YogurPlus,False,,2025-07-30,4.0,82.0,medio
+PRD009,Fresas Ecológicas,frutas,2025-08-05,130,2.0,85,12.1,3,Fresas del Bosque,True,1.8,2025-07-29,0.0,75.0,alto
+PRD010,Jugo de Naranja 1L,bebidas,2025-08-15,90,1.3,65,9.3,13,Naranjales Unidos,False,,2025-07-31,8.0,65.0,bajo
+PRD011,Pan de Hamburgesa,panaderia,2025-08-09,160,1.2,110,15.7,7,Panadería Buen Pan,False,,2025-07-28,20.0,65.0,bajo
+PRD012,Carne de Res Picada,carnes,2025-08-20,50,7.0,25,3.6,18,Carnes Premium,False,,2025-07-30,2.0,55.0,alto
+PRD013,Agua Mineral 500ml,bebidas,2025-08-25,210,0.8,160,22.9,23,Minerales del Mundo,False,,2025-07-28,10.0,50.0,bajo
+PRD014,Espinaca Fresca,verduras,2025-08-03,90,1.0,75,10.7,1,Verduras del Valle,False,,2025-07-30,4.0,60.0,medio
+PRD015,Zanahorias Orgánicas,verduras,2025-08-16,160,0.7,120,17.1,14,Raíces y Más,False,,2025-07-29,4.0,68.0,bajo
+P1001,Manzanas Fuji,frutas,2025-08-31,120,1.2,45,6.4,29,AgroFruit Co.,False,,2025-08-01,4.0,70.0,bajo
+P1002,Leche Entera 1L,lacteos,2025-08-25,85,0.99,60,8.6,23,DairyBest Ltd.,True,0.89,2025-08-01,4.0,85.0,bajo
+P1003,Bananas Organic,frutas,2025-08-20,150,0.5,70,10.0,18,OrganicFarm Supplies,False,,2025-07-31,13.0,65.0,bajo
+P1004,Pechuga de Pollo,carnes,2025-08-12,40,5.5,25,3.6,10,MeatPro Inc.,False,,2025-08-01,2.0,80.0,medio
+P1005,Pan Integral,panaderia,2025-08-04,60,1.0,30,4.3,2,BakeGood Co.,True,0.85,2025-08-01,22.0,55.0,bajo
+P1006,Agua Mineral 500ml,bebidas,2025-09-10,200,0.3,150,21.4,39,HydroPlus Ltd.,False,,2025-07-31,10.0,60.0,bajo
+P1007,Yogur Natural 150g,lacteos,2025-08-22,90,0.7,55,7.9,20,DairyBest Ltd.,False,,2025-07-30,4.0,85.0,bajo
+P1008,Tomates Rojos,verduras,2025-08-19,110,0.9,65,9.3,17,GreenVeggies Co.,False,,2025-08-01,12.0,75.0,bajo
+P1009,Carne Molida de Res,carnes,2025-08-09,30,7.0,20,2.8,7,MeatPro Inc.,False,,2025-07-31,1.0,78.0,alto
+P1010,Jugos de Naranja 1L,bebidas,2025-09-02,140,2.5,90,12.9,31,CitrusWorld,False,,2025-08-01,8.0,65.0,bajo
+P1011,Pan de Caja Blanco,panaderia,2025-08-05,70,1.2,35,5.0,3,BakeGood Co.,False,,2025-08-01,22.0,55.0,bajo
+P1012,Refresco Cola 330ml,bebidas,2025-09-15,180,0.8,140,20.0,43,FizzBrew Ltd.,True,0.75,2025-08-01,10.0,58.0,bajo
+P1013,Queso Cheddar 200g,lacteos,2025-08-24,50,2.3,40,5.7,22,DairyPlus,False,,2025-07-31,4.0,85.0,bajo
+P1014,Verduras Mixtas Congeladas,verduras,2025-08-28,100,3.5,75,10.7,26,FrozenVeg Ltd.,False,,2025-08-01,-18.0,70.0,alto
+P1015,Agua con Gas 750ml,bebidas,2025-09-05,160,1.5,100,14.3,34,SparklingCo,False,,2025-07-30,8.0,60.0,bajo
+P1016,Mantequilla 250g,lacteos,2025-08-23,75,2.8,55,7.8,21,DairyPlus,True,2.5,2025-08-01,4.0,85.0,bajo
+P1017,Jugo de Manzana 1L,bebidas,2025-09-12,130,2.0,95,13.6,41,AppleJuice Co.,False,,2025-08-01,8.0,62.0,bajo
+P1018,Lomo de Cerdo,carnes,2025-08-10,25,9.0,15,2.1,8,MeatPro Inc.,False,,2025-07-31,1.0,78.0,alto
+P1019,Queso Roquefort 150g,lacteos,2025-08-30,45,3.5,22,3.1,28,DairyLux,False,,2025-08-01,4.0,85.0,bajo
+PRD-1001,Manzanas Fuji,frutas,2025-08-25,120,2.5,50,7.1,23,FreshFruits Co.,False,,2025-08-01,4.0,80.0,bajo
+PRD-1002,Leche Deslactosada 1L,lacteos,2025-08-21,80,1.2,35,4.9,19,DairyBest Ltd.,True,0.99,2025-08-01,2.0,65.0,bajo
+PRD-1003,Pechuga de Pollo,carnes,2025-08-19,60,5.5,40,5.7,17,Carnes del Sur,False,,2025-08-02,1.5,70.0,alto
+PRD-1004,Pan Integral,panaderia,2025-08-25,200,1.0,150,21.4,23,Panaderia Central,False,,2025-08-01,10.0,60.0,bajo
+PRD-1005,Refresco Cola 2L,bebidas,2025-09-01,50,2.0,30,4.3,30,Bebidas del Sur,True,1.5,2025-08-02,12.0,85.0,medio
+PRD-1006,Yogurt Natural 500g,lacteos,2025-08-20,90,0.9,45,6.4,18,Yogurt Plus,False,,2025-08-01,4.5,75.0,bajo
+PRD-1007,Jamón Cocido 200g,carnes,2025-08-18,40,3.2,20,2.9,16,Cárnicos La Mejor,False,,2025-07-31,0.0,65.0,alto
+PRD-1008,Agua Mineral 1.5L,bebidas,2025-08-28,180,0.5,70,10.0,26,Agua Pura Ltd.,False,,2025-08-02,8.0,75.0,bajo
+PRD-1009,Fresas 250g,frutas,2025-08-16,70,3.0,55,7.9,14,Fruity Farms,True,2.5,2025-08-02,3.0,85.0,alto
+PRD-1010,Queso Gouda 250g,lacteos,2025-08-30,100,4.5,25,3.6,28,Quesos y Delicias,False,,2025-08-02,5.0,80.0,bajo
+PRD-1011,Carne Molida 1kg,carnes,2025-08-17,55,6.0,35,5.0,15,Carnes del Norte,False,,2025-08-02,1.0,60.0,alto
+PRD-1012,Pan Blanco 500g,panaderia,2025-08-25,220,1.2,180,25.7,23,Panaderos Unidos,False,,2025-08-01,12.0,65.0,bajo
+PRD-1013,Jugo de Naranja 1L,bebidas,2025-09-02,130,2.3,60,8.6,31,Jugo Rico,False,,2025-08-02,10.0,88.0,medio
+PRD-1014,Naranja Valencia 1kg,frutas,2025-08-27,85,1.8,65,9.3,25,Frutas del Sol,True,1.5,2025-08-02,4.0,82.0,bajo
+PRD-1015,Queso Crema 200g,lacteos,2025-08-22,95,2.8,40,5.7,20,Quesos del Valle,False,,2025-08-01,4.0,78.0,bajo
+FRU001,Manzanas golden,frutas,2025-08-21,120,1.2,85,12.1,19,Frutas del Valle,False,,2025-07-30,4.0,65.0,bajo
+VER002,Lechuga orgánica,verduras,2025-08-10,70,0.8,45,6.4,8,Verduras La Huerta,True,0.6,2025-07-31,2.0,70.0,medio
+LACT003,Yogur natural 150g,lacteos,2025-08-15,200,0.9,150,21.4,13,Lácteos Granjeros,False,,2025-08-01,4.0,60.0,bajo
+CAR004,Pollo pechuga 1kg,carnes,2025-08-07,50,5.5,30,4.3,5,Granja Santa Clara,False,,2025-07-29,0.0,55.0,alto
+PAN005,Pan integral 500g,panaderia,2025-08-04,150,2.0,180,25.7,2,Panaderia La Estrella,True,1.5,2025-08-01,22.0,50.0,bajo
+BEB006,Agua mineral 1.5L,bebidas,2025-09-01,300,1.0,220,31.4,30,Aguas Puras,False,,2025-08-02,8.0,80.0,bajo
+FRU007,Bananas maduras,frutas,2025-08-18,90,0.9,75,10.7,16,Frutas Tropicales,False,,2025-07-29,5.0,70.0,bajo
+VER008,Tomates cherry 250g,verduras,2025-08-11,60,2.5,38,5.4,9,Jardín Verde,True,2.0,2025-07-31,3.0,65.0,medio
+LACT009,Queso gouda 200g,lacteos,2025-08-19,90,3.2,65,9.3,17,Quesos del Valle,False,,2025-07-30,4.0,55.0,bajo
+CAR010,Carne de res 1kg,carnes,2025-08-09,30,12.0,20,2.9,7,Reses del Norte,False,,2025-07-31,-1.0,60.0,alto
+PAN011,Croissants 6 unidades,panaderia,2025-08-03,80,3.5,95,13.6,1,Panadería La Dulzura,False,,2025-07-29,20.0,45.0,bajo
+BEB012,Refresco cola 2L,bebidas,2025-08-24,250,1.8,200,28.6,22,Bebidas del Sur,True,1.3,2025-07-31,10.0,75.0,bajo
+FRU013,Naranjas 1kg,frutas,2025-08-20,100,1.1,65,9.3,18,Frutas del Sol,False,,2025-07-30,4.0,70.0,bajo
+VER014,Zanahorias 1kg,verduras,2025-08-12,55,0.7,40,5.7,10,Verduras Frescas,False,,2025-07-31,2.0,70.0,medio
+LACT015,Leche entera 1L,lacteos,2025-08-23,180,1.1,160,22.9,21,Lácteos Ríos,False,,2025-08-02,4.0,65.0,bajo
+CAR016,Pechuga de pavo 500g,carnes,2025-08-13,40,4.0,25,3.6,11,Avícola del Sur,False,,2025-07-30,0.0,50.0,alto
+PRD-00123,Manzana Roja,frutas,2025-08-22,150,1.2,35,5.0,20,Frutas del Valle,True,0.99,2025-07-31,4.0,70.0,bajo
+PRD-00456,Leche Entera 1L,lacteos,2025-08-17,80,1.5,40,6.0,15,Lácteos La Granja,False,,2025-07-30,4.0,85.0,bajo
+PRD-00789,Carne de Res Suprema,carnes,2025-08-10,45,8.99,20,2.9,8,Carnes del Norte,False,,2025-07-29,2.0,60.0,alto
+PRD-01023,Pan de Campaña,panaderia,2025-08-03,200,0.75,100,14.3,1,Panadería La Masa,True,0.65,2025-07-31,22.0,55.0,bajo
+PRD-01234,Jugo de Naranja 1L,bebidas,2025-08-26,120,2.3,60,8.6,24,Bebidas Naturales SA,False,,2025-07-28,8.0,65.0,bajo
+PRD-01567,Queso Gouda 250g,lacteos,2025-08-19,70,3.5,25,3.6,17,Lácteos La Granja,False,,2025-07-30,4.0,75.0,bajo
+PRD-01890,Verdura Mixta,verduras,2025-08-16,90,2.5,30,4.3,14,Verduras del Valle,False,,2025-07-31,5.0,85.0,medio
+PRD-02123,Pollo Orgánico 1kg,carnes,2025-08-11,60,9.5,15,2.1,9,Granja Orgánica,False,,2025-07-28,1.0,55.0,alto
+PRD-02345,Gaseosa Cola 2L,bebidas,2025-08-30,180,1.8,90,12.9,28,Bebidas y Más,True,1.5,2025-07-30,10.0,60.0,bajo
+PRD-02567,Tarta de Manzana,panaderia,2025-08-05,50,3.0,8,1.1,3,Repostería Dulce Vida,False,,2025-07-31,18.0,65.0,bajo
+PRD-02890,Fresa Nacional,frutas,2025-08-23,100,2.0,45,6.4,21,Frutas del Valle,False,,2025-07-30,4.0,70.0,bajo
+PRD-03124,Agua Mineral 1.5L,bebidas,2025-09-01,220,0.85,110,15.7,30,Hidratación Pura,False,,2025-07-29,9.0,58.0,bajo
+PRD-03345,Yogurt Natural 500g,lacteos,2025-08-15,130,1.8,55,7.9,13,Lácteos La Granja,False,,2025-07-30,4.0,80.0,bajo
+PRD-03567,Naranja Navel 1kg,frutas,2025-08-25,95,1.3,40,5.7,23,Frutas del Valle,False,,2025-07-30,4.0,72.0,bajo
+PRD-03890,Leche de Cabra 1L,lacteos,2025-08-20,55,3.9,22,3.1,18,Lácteos Orgánicos,False,,2025-07-29,4.0,78.0,bajo
+PRD-04123,Ensalada Verde Orgánica,verduras,2025-08-14,70,2.8,18,2.6,12,Verduras del Valle,False,,2025-07-31,5.0,88.0,medio
+PRD-001,Manzanas Fuji,frutas,2025-08-25,150,2.5,35,5.0,23,Frutas del Valle,False,,2025-07-30,4.0,75.0,bajo
+PRD-002,Leche Entera 1L,lacteos,2025-08-12,80,1.2,20,2.8,10,Lácteos del Norte,True,1.0,2025-07-31,4.0,85.0,bajo
+PRD-003,Bananas,frutas,2025-08-18,200,1.1,50,7.0,16,Banana Farms,False,,2025-07-29,13.0,80.0,bajo
+PRD-004,Yogur Natural 150g,lacteos,2025-08-09,60,0.8,15,2.0,7,YogurPlus,False,,2025-07-31,4.0,78.0,bajo
+PRD-005,Carne de Pollo Paquete 1kg,carnes,2025-08-10,40,5.0,10,1.5,8,Carne Rica,False,,2025-07-31,0.0,80.0,alto
+PRD-006,Pan Integral 500g,panaderia,2025-08-04,100,1.5,25,3.5,2,Panadería Central,True,1.2,2025-07-29,20.0,60.0,bajo
+PRD-007,Agua Mineral 1.5L,bebidas,2025-09-05,250,0.9,60,8.0,34,Bebidas del Sur,False,,2025-07-31,10.0,70.0,bajo
+PRD-008,Queso Gouda 200g,lacteos,2025-08-28,70,3.0,12,1.8,26,Quesos del Campo,False,,2025-07-30,4.0,65.0,bajo
+PRD-009,Tomates Cherry,verduras,2025-08-21,120,2.0,40,5.7,19,Verduras Verdes,False,,2025-07-30,7.0,80.0,bajo
+PRD-010,Cerveza Artesanal 330ml,bebidas,2025-09-01,180,3.5,55,7.8,30,Cervezas del Valle,False,,2025-07-31,12.0,65.0,medio
+PRD-011,Leche Descremada 1L,lacteos,2025-08-15,90,1.1,22,3.1,13,Lácteos del Norte,False,,2025-07-29,4.0,85.0,bajo
+PRD-012,Uvas Verdes,frutas,2025-08-23,140,2.8,28,4.0,21,Vinedos Verdes,False,,2025-07-30,4.0,70.0,bajo
+PRD-013,Refresco Cola 2L,bebidas,2025-09-04,130,1.5,45,6.4,33,Bebidas del Norte,False,,2025-07-31,8.0,65.0,medio
+PRD-014,Jamón Serrano 100g,carnes,2025-08-11,50,4.5,8,1.2,9,Cárnicas del Sur,False,,2025-07-31,0.0,75.0,alto
+PRD-015,Pan de Molde 600g,panaderia,2025-08-05,90,2.0,22,3.1,3,Panadería Central,False,,2025-07-29,20.0,60.0,bajo
+PRD-016,Gaseosa Cola 2L,bebidas,2025-09-06,170,1.4,50,7.1,35,Bebidas del Sur,False,,2025-07-31,10.0,65.0,medio
+PRD-017,Café en Grano 250g,bebidas,2025-09-10,110,8.0,15,2.1,39,Café del Valle,False,,2025-07-30,15.0,50.0,bajo
+PRD-018,Cerveza Pilsner 330ml,bebidas,2025-08-31,160,3.2,48,6.8,29,Cervezas del Valle,False,,2025-07-31,12.0,65.0,medio
+PRD-019,Naranja de Mesa 1kg,frutas,2025-08-22,130,2.3,33,4.7,20,Frutas del Sol,False,,2025-07-30,4.0,70.0,bajo
+PRD-020,Lentejas Secas 500g,verduras,2025-08-26,90,2.0,10,1.4,24,Legumbres del Norte,False,,2025-07-29,20.0,55.0,bajo
+PRD001,Manzana Fuji,frutas,2025-08-15,120,1.2,85,12.1,13,Frutas del Valle,False,,2025-07-31,4.0,85.0,bajo
+PRD002,Leche Entera 1L,lacteos,2025-08-20,80,1.0,45,6.4,18,Lácteos La Leche,True,0.8,2025-07-30,4.0,70.0,bajo
+PRD003,Tomates Cherry,verduras,2025-08-12,150,2.3,130,18.6,10,Verduras del Sol,False,,2025-07-30,5.0,90.0,medio
+PRD004,Pollo Orgánico,carnes,2025-08-09,40,7.5,25,3.6,7,Carnes Orgánicas SA,True,6.0,2025-07-31,2.0,80.0,alto
+PRD005,Pan Integral,panaderia,2025-08-05,200,1.5,180,25.7,3,Panadería La Esquina,False,,2025-07-30,20.0,60.0,bajo
+PRD006,Jugo de Naranja 1L,bebidas,2025-08-25,95,2.0,70,10.0,23,Bebidas del Sol,False,,2025-07-31,8.0,80.0,bajo
+PRD007,Queso Gouda,lacteos,2025-08-18,60,3.5,55,7.8,16,Quesos Artesanales,False,,2025-07-29,4.0,75.0,bajo
+PRD008,Filete de Ternera,carnes,2025-08-13,30,12.0,10,1.4,11,Carnes Premium,False,,2025-07-30,0.0,85.0,alto
+PRD009,Cerveza Artesanal 330ml,bebidas,2025-08-24,150,3.0,90,12.9,22,Cervezas del Mundo,False,,2025-07-30,10.0,75.0,bajo
+PRD010,Yogurt Natural 125g,lacteos,2025-08-14,220,0.8,160,22.9,12,Yogurt Express,True,0.6,2025-07-31,4.0,80.0,bajo
+PRD011,Espinaca Orgánica,verduras,2025-08-11,90,1.8,70,10.0,9,Verduras Orgánicas,False,,2025-07-30,4.0,85.0,medio
+PRD012,Jamon Cocido,carnes,2025-08-16,55,4.0,40,5.7,14,Carnes y Embutidos,False,,2025-07-29,2.0,82.0,medio
+PRD013,Refresco Cola 500ml,bebidas,2025-08-23,180,1.5,150,21.4,21,Refrescos y Bebidas,False,,2025-07-30,10.0,75.0,bajo
+PRD014,Leche de Cabra 1L,lacteos,2025-08-19,70,2.8,60,8.5,17,Leches Especiales,False,,2025-07-31,4.0,75.0,bajo
+PRD015,Cerveza Lager 500ml,bebidas,2025-08-29,140,2.5,110,15.7,27,Cervecería Nacional,False,,2025-07-30,10.0,70.0,bajo
+PRD016,Queso Brie,lacteos,2025-08-17,50,4.2,52,7.4,15,Quesos Gourmet,True,3.5,2025-07-31,4.0,75.0,bajo
+PRD017,Berries Mixtas 250g,frutas,2025-08-10,100,3.0,95,13.6,8,Frutas Exóticas,False,,2025-07-30,4.0,85.0,medio
+PRD018,Pepino Italiano,verduras,2025-08-14,85,1.2,65,9.3,12,Verduras Frescas,False,,2025-07-29,4.0,85.0,medio
+PRD019,Yogurt de Frambuesa 150g,lacteos,2025-08-13,130,1.1,105,15.0,11,Yogurt Express,False,,2025-07-30,4.0,80.0,bajo
+PRD020,Jugo de Manzana 1L,bebidas,2025-08-26,90,2.2,75,10.7,24,Bebidas Naturales,False,,2025-07-30,8.0,80.0,bajo
+PRD021,Cebolla Morada,verduras,2025-08-10,100,1.5,80,11.4,8,Verduras Frescas,False,,2025-07-30,4.0,85.0,medio
+PRD022,Queso Ricotta 250g,lacteos,2025-08-19,70,3.0,58,8.3,17,Quesos Gourmet,False,,2025-07-29,4.0,75.0,bajo
+PRD023,Fresas 250g,frutas,2025-08-09,70,3.2,65,9.3,7,Frutas Frescas,False,,2025-07-30,4.0,85.0,medio
+PRD024,Zanahorias Baby 300g,verduras,2025-08-14,125,1.7,105,15.0,12,Verduras Orgánicas,False,,2025-07-31,4.0,85.0,medio
+PRD025,Bebida Cola Zero 1.5L,bebidas,2025-08-27,100,2.3,90,12.9,25,Refrescos y Bebidas,False,,2025-07-30,10.0,75.0,bajo
+PRD026,Cereza Congelada 500g,frutas,2025-08-12,75,4.5,50,7.1,10,Frutas Congeladas,False,,2025-07-29,-18.0,50.0,alto
+PRD027,Mango Ataulfo,frutas,2025-08-14,95,2.8,80,11.4,12,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD028,Broccoli Fresco,verduras,2025-08-16,60,2.0,40,5.7,14,Verduras Orgánicas,False,,2025-07-29,4.0,85.0,medio
+PRD029,Pera Williams,frutas,2025-08-10,110,2.4,70,10.0,8,Frutas Gourmet,False,,2025-07-30,4.0,85.0,medio
+PRD030,Espárragos Verdes,verduras,2025-08-13,65,3.0,55,8.0,11,Verduras Premium,False,,2025-07-29,4.0,85.0,medio
+PRD031,Queso Cheddar,lacteos,2025-08-21,55,4.0,50,7.1,19,Quesos Internacionales,False,,2025-07-29,4.0,75.0,bajo
+PRD032,Sandía 1kg,frutas,2025-08-20,130,3.8,110,15.7,18,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD033,Zucchini Verde,verduras,2025-08-13,95,1.4,75,10.7,11,Verduras Frescas,False,,2025-07-29,4.0,85.0,medio
+PRD034,Limón Verde,frutas,2025-08-12,85,1.2,70,10.0,10,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD035,Coco Rallado 200g,verduras,2025-08-16,45,2.5,30,4.3,14,Frutas Tropicales,False,,2025-07-29,15.0,60.0,alto
+PRD036,Espinaca Congelada 250g,verduras,2025-08-10,70,2.0,50,7.1,8,Verduras Congeladas,False,,2025-07-29,-18.0,50.0,alto
+PRD037,Naranja Valencia,frutas,2025-08-09,85,2.0,80,11.4,7,Frutas Tropicales,False,,2025-07-29,4.0,85.0,medio
+PRD038,Queso Mozzarella 200g,lacteos,2025-08-23,65,3.8,55,8.0,21,Quesos Internacionales,False,,2025-07-30,4.0,75.0,bajo
+PRD039,Peras Rocha,frutas,2025-08-17,100,2.4,70,10.0,15,Frutas Gourmet,False,,2025-07-30,4.0,85.0,medio
+PRD040,Zanahorias Orgánicas 500g,verduras,2025-08-14,100,2.0,85,12.1,12,Verduras Orgánicas,False,,2025-07-30,4.0,85.0,medio
+PRD041,Camarones Congelados 500g,verduras,2025-08-22,60,8.0,50,7.1,20,Mariscos y Congelados,False,,2025-07-29,-20.0,50.0,alto
+PRD042,Fresas Congeladas 300g,frutas,2025-08-19,90,4.8,75,10.7,17,Frutas Congeladas,False,,2025-07-29,-18.0,50.0,alto
+PRD043,Melón Cantalupe,frutas,2025-08-20,80,3.5,65,9.3,18,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD044,Queso Azul 150g,lacteos,2025-08-22,45,4.5,40,5.7,20,Quesos Gourmet,False,,2025-07-29,4.0,75.0,bajo
+PRD045,Mandarinas Clementina,frutas,2025-08-11,110,2.3,90,12.9,9,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD046,Brotes de Alpiste 100g,verduras,2025-08-15,55,2.0,45,6.4,13,Verduras Orgánicas,False,,2025-07-29,4.0,85.0,medio
+PRD047,Grapas de Uva,frutas,2025-08-20,65,4.0,52,7.4,18,Frutas Tropicales,False,,2025-07-29,4.0,85.0,medio
+PRD048,Mango Carabao,frutas,2025-08-23,85,3.0,75,10.7,21,Frutas Tropicales,False,,2025-07-29,4.0,85.0,medio
+PRD049,Chocolates Assortidos 200g,panaderia,2025-08-20,55,4.0,60,8.6,18,Confitería Gourmet,False,,2025-07-29,18.0,60.0,bajo
+PRD050,Pan de Hamburguesa,panaderia,2025-08-05,180,2.0,160,22.9,3,Panadería La Esquina,True,1.6,2025-07-31,20.0,55.0,bajo
+PRD051,Refresco Naranja 600ml,bebidas,2025-08-26,140,1.8,120,17.1,24,Bebidas del Sol,False,,2025-07-30,10.0,75.0,bajo
+PRD052,Café Instantáneo 100g,bebidas,2025-08-18,70,3.2,58,8.3,16,Café del Cafetal,False,,2025-07-29,20.0,65.0,bajo
+PRD053,Galletas de Limón 150g,panaderia,2025-08-11,200,1.8,170,24.3,9,Galletas y Pasteles,False,,2025-07-30,18.0,55.0,bajo
+PRD054,Zanahoria Rallada 250g,verduras,2025-08-10,90,1.9,75,10.7,8,Verduras Orgánicas,False,,2025-07-29,4.0,85.0,medio
+PRD055,Palmito en Escabeche 200g,verduras,2025-08-19,40,3.5,30,4.3,17,Verduras en Conserva,False,,2025-07-29,15.0,60.0,alto
+PRD056,Queso Parmesano 250g,lacteos,2025-08-22,45,5.0,48,6.9,20,Quesos Gourmet,False,,2025-07-29,4.0,75.0,bajo
+PRD057,Fresas Deshidratadas 150g,frutas,2025-08-21,35,4.8,25,3.6,19,Frutas Deshidratadas,False,,2025-07-29,25.0,55.0,alto
+PRD058,Zanahorias Baby 150g,verduras,2025-08-09,75,2.0,60,8.6,7,Verduras Orgánicas,False,,2025-07-29,4.0,85.0,medio
+PRD059,Chorizo Ibérico 250g,carnes,2025-08-21,50,6.0,40,5.7,19,Embutidos de Élite,False,,2025-07-29,2.0,82.0,alto
+PRD060,Agua Mineral 1.5L,bebidas,2025-08-28,90,1.0,75,10.7,26,Agua Purificada,False,,2025-07-30,10.0,70.0,bajo
+PRD061,Galletas Oreo 150g,panaderia,2025-08-14,200,2.5,180,25.7,12,Galletas y Pasteles,False,,2025-07-31,18.0,55.0,bajo
+PRD062,Pistachos 100g,panaderia,2025-08-13,85,4.8,65,9.3,11,Frutos Secos del Sur,False,,2025-07-29,25.0,50.0,alto
+PRD063,Miel de Abeja 500g,panaderia,2025-08-25,50,6.5,45,6.4,23,Mieles del Mundo,False,,2025-07-30,18.0,45.0,bajo
+PRD064,Jamon Serrano 200g,carnes,2025-08-24,55,7.0,35,5.0,22,Embutidos Premium,False,,2025-07-29,2.0,82.0,alto
+PRD065,Vino Tinto 750ml,bebidas,2025-08-25,65,12.0,55,7.8,23,Vinos y Destilados,False,,2025-07-29,18.0,45.0,bajo
+PRD066,Galletas de Vainilla 150g,panaderia,2025-08-15,90,2.0,80,11.4,13,Galletas y Pasteles,False,,2025-07-29,18.0,55.0,bajo
+PRD067,Fresas Naturales 250g,frutas,2025-08-21,70,3.5,60,8.6,19,Frutas Orgánicas,False,,2025-07-29,4.0,85.0,medio
+PRD068,Jamon York 200g,carnes,2025-08-23,50,4.5,45,6.4,21,Embutidos Premium,False,,2025-07-29,2.0,82.0,alto
+PRD069,Pimiento Rojo,verduras,2025-08-12,90,1.3,75,10.7,10,Verduras Frescas,False,,2025-07-30,4.0,85.0,medio
+PRD070,Vino Blanco 750ml,bebidas,2025-08-29,70,10.0,60,8.6,27,Vinos y Destilados,False,,2025-07-29,18.0,45.0,bajo
+PRD071,Galletas integrales 200g,panaderia,2025-08-16,130,2.2,120,17.1,14,Galletas y Pasteles,False,,2025-07-30,18.0,55.0,bajo
+PRD072,Aceitunas Verdes 150g,verduras,2025-08-19,55,3.8,48,6.9,17,Verduras en Conserva,False,,2025-07-29,15.0,60.0,alto
+PRD073,Peras Bartlett,frutas,2025-08-23,95,2.3,78,11.1,21,Frutas Gourmet,False,,2025-07-29,4.0,85.0,medio
+PRD074,Cítricos Mix 500g,frutas,2025-08-12,130,4.2,105,15.0,10,Frutas Tropicales,False,,2025-07-30,4.0,85.0,medio
+PRD075,Mantequilla 250g,lacteos,2025-08-25,75,3.8,65,9.3,23,Lácteos La Leche,False,,2025-07-29,4.0,75.0,bajo
+PRD076,Yogurt Griego 150g,lacteos,2025-08-17,125,2.5,110,15.7,15,Yogurt Express,True,2.0,2025-07-31,4.0,80.0,bajo
