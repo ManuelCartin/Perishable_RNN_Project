@@ -13,10 +13,10 @@ Develop a system based on **neural networks** that can predict the risk of expir
 
 ## Current Project Status
 
-🔹 **Phase 1: Synthetic data generation and validation** ✅
-🔹 Phase 2: Neural network model development ⏳
-🔹 Phase 3: Training and evaluation with different scenarios ⏳
-🔹 Phase 4: Integration with backend/mobile app (future) ⏳
+🔹 **Phase 1: Synthetic data generation and validation**
+🔹 Phase 2: Neural network model development
+🔹 Phase 3: Training and evaluation with different scenarios
+🔹 Phase 4: Integration with backend/mobile app (future)
 
 ---
 ## Test Dataset
