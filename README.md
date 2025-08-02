@@ -1,4 +1,4 @@
-#Project: Neural Network for Perishable Product Inventory Management
+# Project: Neural Network for Perishable Product Inventory Management
 
 This project was conceived as part of a university course on **Project Methodology and Development**, with the goal of transforming a theoretical proposal into a functional prototype. The initiative seeks to apply **generative AI, data science, and data engineering** techniques to create an intelligent system that helps reduce losses due to product expiration in retail inventories.
 
