@@ -1,72 +1,67 @@
-# Project: Neural Network for Perishable Product Inventory Management
+# "SmartStock AI" Project: Leading the Creation of an Inventory Management Solution
+This project demonstrates my approach to leading the lifecycle of an AI product from its inception. Its goal is to combat waste in retail inventories through a predictive system that alerts staff to the risk of expiration.
 
-This project was conceived as part of a university course on **Project Methodology and Development**, with the goal of transforming a theoretical proposal into a functional prototype. The initiative seeks to apply **generative AI, data science, and data engineering** techniques to create an intelligent system that helps reduce losses due to product expiration in retail inventories.
+*My role in this project was that of a Hybrid Product Manager, leading the ideation process, concept validation with synthetic data, and the technical roadmap for development.* 
 
----
+## Phase 1: Data Validation and Strategy
+In the first phase, the main challenge was not technological, but strategic: how can we validate the idea with stakeholders without having access to real inventory data?
 
-## General Objective
+Key Decision: Rather than delaying the project, I decided to create synthetic datasets with business logic. This allowed us to simulate scenarios, test the concept of the alert system, and demonstrate the project's viability to stakeholders quickly and efficiently.
 
-Develop a system based on **neural networks** that can predict the risk of expiration of perishable products, generating automatic alerts that will be notified to inventory personnel through a future mobile application.
+Methodology: I used tools like GitHub Copilot and Mostly AI to generate two versions of the data: a small one for stress testing and a larger one for training. This iterative approach allowed me to manage risk and validate the solution's structure.
 
----
+The Synthetic Data Product
+The dataset created is a product in itself, designed to facilitate communication and development. It includes key variables such as expiration date, expiration risk, and storage conditions, allowing any team to explore the solution's potential.
 
-## Current Project Status
+## Product Roadmap
+This project follows a clear roadmap, focused on delivering incremental value.
 
-🔹 **Phase 1: Synthetic data generation and validation**
-🔹 Phase 2: Neural network model development
-🔹 Phase 3: Training and evaluation with different scenarios
-🔹 Phase 4: Integration with backend/mobile app (future)
+Discovery Phase: Creation and validation of the synthetic dataset (Complete).
 
----
-## Test Dataset
+Development Phase: Creation of the predictive model with neural networks.
 
-Two versions of the synthetic dataset have currently been generated, using a combination of tools such as **GitHub Copilot** and **Mostly AI**:
+Testing Phase: Training and evaluation with realistic scenarios.
 
-- **1,120 samples**: for structural validation and stress testing.
-- **6,120 samples**: for preliminary model training and simulation of more realistic scenarios.
+Deployment Phase (future): Integration with a mobile app to generate real-time alerts.
 
-The variables range from basic data (brand, product, category, expiration date) to operating conditions (current stock, on sale, expiration risk, storage temperature, etc.).
+## Lessons Learned as a PM
+Prioritize validation: It's not necessary to have all the real data to get started. A PM with data engineering skills can create an MVP with synthetic data to validate the business hypothesis.
 
-In addition, the dataset allows us to evaluate whether the neural network is sensitive to minor variations, such as changes in supplier, brand, or storage conditions.
+Strategic communication: Synthetic datasets became a communication tool with stakeholders, allowing us to demonstrate the value of the solution before the model was ready.
 
----
+Product vision: The project wasn't just about building a neural network, but about solving a real problem for a user (the inventory staff). The entire process was focused on creating a usable and valuable solution.
 
-## Tools Used
+## Strategic Roadmap: My Path to an AI Product Manager Role
+This project, beyond being a demonstration of technical skills, represents my philosophy as a future AI Product Manager. My focus is on leading AI products not only with technical knowledge but also with a clear business vision. The following steps are a demonstration of my commitment to this path.
 
-- **Python + Jupyter Notebooks**
-- **GitHub Copilot**: semi-structured dataset generation
-- **Mostly AI**: synthetic dataset generation with credible dataset extension
-- **Pandas, Numpy, Matplotlib**: exploratory data analysis (EDA)
-- (Coming soon) **TensorFlow / Keras or PyTorch**: for the neural network model
+- Phase 1: Concept Validation (Completed)
+Goal: Demonstrate the project's viability with a functional MVP.
 
----
+Key Actions:
 
----
+Create the synthetic dataset for stakeholder validation.
 
-## Next Steps
+Develop a prototype for the proof of concept.
 
-- Complete key certifications:
-- IBM AI Engineer
-- AI Development Engineer
-- Building the neural network model
-- Supervised training and validation
-- Implementing the mobile alert system (future phase)
+- Phase 2: Strengthen Technical Leadership (In Progress)
+This phase focuses on deepening my technical foundation to make more informed decisions and communicate effectively with engineering teams.
 
----
+Goal: Master the AI ​​model development lifecycle and solution architecture.
 
-## Final Notes
+Key Actions:
 
-This project is under development and its main objective is to **demonstrate the technical and strategic feasibility** of applying generative AI and predictive models in real-life logistics contexts. Although the dataset is synthetic, it is built with real business logic and constraints.
+Complete key IBM AI Engineer and IBM AI Development Engineer certifications. This will allow me to understand the technical complexity and limitations of AI systems.
 
-> If you want to contribute or give feedback, welcome!
+Build the neural network model and validate it, which will serve as a case study to understand the challenges and opportunities in the product development phase.
 
----
+- Phase 3: Product Vision and Deployment (Coming Soon)
+Once the technical foundation is solid, my focus will shift to the business aspects and user experience.
 
-## © Author
+Goal: Understand AI product management from a business perspective.
 
-**Manuel**
-Data Science Engineering student, and Gen AI for Data Science specialist student
-IBM Data Science Professional certificate
-Passionate about applied AI, project-based learning, and machine learning engineering.
+Key Actions:
 
+Complete the IBM AI Product Manager Professional Certificate to learn about market strategy, feature definition, and stakeholder management.
+
+Plan the deployment of the mobile alert system as the last mile of the product, ensuring that the technical solution translates into real, tangible value for the end user.
 
